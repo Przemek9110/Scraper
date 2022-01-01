@@ -5,7 +5,7 @@ from tqdm import tqdm
 from sqlalchemy import create_engine
 import pandas as pd
 
-engine = create_engine('mysql+pymysql://root:zddatapol17@/scrapper', encoding='UTF-8', echo=True)
+engine = create_engine('mysql+pymysql://root:root@/scrapper', encoding='UTF-8', echo=True)
 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/'
 dictionary = {}
 title = []
