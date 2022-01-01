@@ -4,8 +4,8 @@ from requests import get
 from tqdm import tqdm
 from sqlalchemy import create_engine
 import pandas as pd
-import time
 
+engine = create_engine('mysql+pymysql://root:zddatapol17@/scrapper', encoding='UTF-8', echo=True)
 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/'
 dictionary = {}
 title = []
@@ -19,17 +19,16 @@ type_of_building = []
 link = []
 
 
-def progress_bar(progress):
-    for i in tqdm(range(progress)):
-        time.sleep(0.02)
-
-
 def parse_price(price):
     return float(price.replace(' ', '').replace('zł', '').replace(',', ''))
 
 
 def parse_price_per_meter(price):
     return float(price.replace(' ', '').replace('zł/m²', '').replace(',', '.').replace('Cenazam²:', ''))
+
+
+def setup(argv):
+    pass  # TODO
 
 
 def site_pages_count():
@@ -42,7 +41,6 @@ def offer_link_finder(number):
     page = get(f'{URL}?page={number}')
     soup = BeautifulSoup(page.content, 'html.parser')
     link_list = []
-    print(f'\nScrapping page {number + 1} / {site_pages_count()}')
     for offer in soup.findAll('div', class_='offer-wrapper'):
         link = offer.findNext('a')
         link_list.append(link)
@@ -72,7 +70,7 @@ def page_scrapper(soup):
     return dictionary
 
 
-def parse_offer_page(link_list):
+def offer_iterator(link_list):
     for i in range(len(link_list)):
         site = get(link_list[i]['href'])
         soup = BeautifulSoup(site.content, 'html.parser')
@@ -81,14 +79,15 @@ def parse_offer_page(link_list):
 
 
 def main():
-    start_time = time.time()
-    for j in range(site_pages_count()):
-        offer_link = offer_link_finder(j)
-        diction = parse_offer_page(offer_link)
+    print(f'\nApplication starts scraping from {URL}')
+    for offers_site in tqdm(range(site_pages_count())):
+        offer_link = offer_link_finder(offers_site)
+        diction = offer_iterator(offer_link)
     df = pd.DataFrame(diction)
+    df.to_sql('Offers', engine, if_exists='replace', index=False)
     df['offer_title'].unique()
-    df.to_csv('title.csv')
-    print('-----%s seconds-----' % (time.time() - start_time))
+    df.to_csv('title.csv', index=False)
+    print('WORK DONE!!')
 
 
 if __name__ == '__main__':
