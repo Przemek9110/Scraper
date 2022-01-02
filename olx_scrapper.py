@@ -6,6 +6,7 @@ from tqdm import tqdm
 from sqlalchemy import create_engine
 import pandas as pd
 import time
+import city_names_scrapper
 
 engine = create_engine('mysql+pymysql://root:zddatapol17@/scrapper', encoding='UTF-8', echo=False)
 dictionary = {}
@@ -17,6 +18,9 @@ level = []
 area = []
 type_of_building = []
 city_list = []
+market_list = []
+rooms_list = []
+no_page_found = []
 
 
 def parse_price(price):
@@ -25,6 +29,19 @@ def parse_price(price):
 
 def parse_price_per_meter(price):
     return float(price.replace(' ', '').replace('zł/m²', '').replace(',', '.').replace('Cenazam²:', ''))
+
+
+def parse_level(level_text):
+    return int(level_text.replace('Poziom: ', '').replace('Parter', '0')
+               .replace('Powyżej ', '').replace('Suterena', '-1').replace('Poddasze ', '11'))
+
+
+def parse_area(area_text):
+    return float(area_text.replace('Powierzchnia: ', '').replace(' m²', '').replace(',', '.'))
+
+
+def parse_type_of_building(type_of_building_text):
+    return type_of_building_text.replace('Rodzaj zabudowy : ', '')
 
 
 def setup(argv):
@@ -66,16 +83,36 @@ def page_scrapper(soup):  # TODO add city name from URL
             offer_type.append(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[0].get_text().strip())
             price_per_meter.append(
                 parse_price_per_meter(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[1].get_text().strip()))
-            level.append(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[2].get_text().strip())
-            area.append(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[6].get_text().strip())
-            type_of_building.append(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[5].get_text().strip())
+            level_text = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[2].get_text().strip()
+            if level_text.startswith('Poziom'):
+                level.append(parse_level(level_text))
+            else:
+                level.append('')
+
+            area_text = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[6].get_text().strip()
+            if area_text.startswith('Powierzchnia'):
+                area.append(parse_area(area_text))
+            else:
+                area.append('')
+
+            type_of_building_txt = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[5].get_text().strip()
+            if type_of_building_txt.startswith('Rodzaj'):
+                type_of_building.append(parse_type_of_building(type_of_building_txt))
+            else:
+                type_of_building.append('')
+
             city_list.append(city)
+            market_list.append(market.replace('secondary', 'wtorny').replace('primary', 'pierwotny'))
+            rooms_list.append(
+                int(rooms.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
+            # TODO add list with dates when scrapped
         except ValueError as e:
-            print(f'Value Error {e}')
+            print(f'Value Error {e}')  # TODO add saving exception to exception_log list
 
     dictionary = {'offer_title': title, 'price': price, 'offer_type': offer_type,
                   'price_per_meter': price_per_meter, 'level': level, 'area': area,
-                  'offer_type_of_building': type_of_building, 'city_name': city_list}
+                  'offer_type_of_building': type_of_building, 'city_name': city_list,
+                  'market': market_list, 'rooms': rooms_list}
 
     return dictionary
 
@@ -87,7 +124,7 @@ def offer_iterator(link_list):
             result = page_scrapper(soup)
         return result
     except UnboundLocalError:
-        print(f'Page not found {URL}')
+        no_page_found.append(URL)
 
 
 def main(URL):
@@ -101,20 +138,24 @@ def main(URL):
 
 if __name__ == '__main__':
     print('Scrapper Runing...')
-
+    city_names_scrapper
     start_time = time.time()
-    data = pd.read_csv('cities.csv')
+    cities = pd.read_csv('cities.csv')
+    market = pd.read_csv('market.csv')
+    rooms = pd.read_csv('rooms.csv')
     print('WORK START!!!')
-    for ind, city in enumerate(data['0']):
-        URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter_enum_market%5D%5B0%5D=' \
-                                                                               'secondary&search%5Bfilter_enum_rooms%5D%5B0%5D=two'
-        if site_pages_count(URL) is None:
-            print(f'No offers: {URL}')
-        else:
-            df = pd.DataFrame(main(URL))
+    for index, market in enumerate(market['0']):
+        for inde, rooms in enumerate(rooms['0']):
+            for ind, city in enumerate(cities['0']):
+                URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter_enum_market%5D%5B0%5D=' \
+                      + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + rooms
+                if site_pages_count(URL) is None:
+                    print(f'No offers: {URL}')
+                else:
+                    df = pd.DataFrame(main(URL))
 
-    df.to_sql('Offers', engine, if_exists='append', index=False)  # TODO Saving wrong cities .csv is ok
-    df.to_csv('apartments.csv', mode='a', index=False)  # TODO Choice saving to DB or .csv
-
+    df.to_sql('Offers', engine, if_exists='replace', index=False)  # TODO Saving wrong cities .csv is ok
+    df.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
+    pd.DataFrame(no_page_found).to_csv('exceptions.csv', mode='w', index=False)
     print('WORK DONE!')
-    print('-----%s seconds-----' % (time.time() - start_time))
+    print('-----%s seconds-----' % ((time.time() - start_time) / 3600))

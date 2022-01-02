@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from requests import get
 import pandas as pd
 from tqdm import tqdm
+
 print('Creating cities.csv file...')
 path = 'voivodeship.csv'
 data = pd.read_csv(path, index_col=0)
@@ -16,7 +17,8 @@ def fetch_page(URL):
 
 def parse_city_name(city_name):
     return str(city_name.replace(' ', '-').replace('ą', 'a').replace('ć', 'c').replace('ę', 'e').replace('ł', 'l') \
-        .replace('ń', 'n').replace('ó', 'o').replace('ś', 's').replace('ż', 'z').replace('ź', 'z').replace('""', ''))
+               .replace('ń', 'n').replace('ó', 'o').replace('ś', 's').replace('ż', 'z').replace('ź', 'z').replace('""',
+                                                                                                                  ''))
 
 
 for index, URL in tqdm(enumerate(data['links'])):
@@ -26,5 +28,4 @@ for index, URL in tqdm(enumerate(data['links'])):
     city_name.pop()
 
 file = pd.DataFrame(city_name)
-file.to_csv('cities.csv', index=False)
-
+file.to_csv('cities.csv', mode='w', index=False)
