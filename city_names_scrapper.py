@@ -15,8 +15,8 @@ def fetch_page(URL):
     return soup
 
 
-def parse_city_name(city_name):
-    return str(city_name.replace(' ', '-').replace('ą', 'a').replace('ć', 'c').replace('ę', 'e').replace('ł', 'l') \
+def parse_city_name(name):
+    return str(name.replace(' ', '-').replace('ą', 'a').replace('ć', 'c').replace('ę', 'e').replace('ł', 'l') \
                .replace('ń', 'n').replace('ó', 'o').replace('ś', 's').replace('ż', 'z').replace('ź', 'z').replace('""',
                                                                                                                   ''))
 

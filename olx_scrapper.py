@@ -8,7 +8,10 @@ import pandas as pd
 import time
 import city_names_scrapper
 
-engine = create_engine('mysql+pymysql://root:zddatapol17@/scrapper', encoding='UTF-8', echo=False)
+
+# engine = create_engine('mysql+pymysql://root:pass@/scrapper', encoding='UTF-8', echo=False)
+rooms = {'rooms': ['one', 'two', 'three', 'four']}
+market = {'market': ['primary', 'secondary']}
 dictionary = {}
 title = []
 price = []
@@ -75,7 +78,7 @@ def offer_link_finder(URL, number):
     return link_list
 
 
-def page_scrapper(soup):  # TODO add city name from URL
+def page_scrapper(soup):  # TODO add otodom BeautifulSoup
     for info in soup.findAll('div', class_='css-1wws9er'):
         try:
             title.append(info.findNext('h1', class_="css-r9zjja-Text eu5v0x0").get_text().strip())
@@ -137,25 +140,23 @@ def main(URL):
 
 
 if __name__ == '__main__':
-    print('Scrapper Runing...')
+    print('Scrapper Running...')
     city_names_scrapper
     start_time = time.time()
     cities = pd.read_csv('cities.csv')
-    market = pd.read_csv('market.csv')
-    rooms = pd.read_csv('rooms.csv')
     print('WORK START!!!')
-    for index, market in enumerate(market['0']):
-        for inde, rooms in enumerate(rooms['0']):
-            for ind, city in enumerate(cities['0']):
-                URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter_enum_market%5D%5B0%5D=' \
-                      + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + rooms
+    for i, market in enumerate(market['market']):
+        for j, rooms in enumerate(rooms['rooms']):
+            for k, city in enumerate(cities['0']):
+                URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter' \
+                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + rooms
                 if site_pages_count(URL) is None:
                     print(f'No offers: {URL}')
                 else:
                     df = pd.DataFrame(main(URL))
 
-    df.to_sql('Offers', engine, if_exists='replace', index=False)  # TODO Saving wrong cities .csv is ok
+    # df.to_sql('Offers', engine, if_exists='replace', index=False)
     df.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
     pd.DataFrame(no_page_found).to_csv('exceptions.csv', mode='w', index=False)
     print('WORK DONE!')
-    print('-----%s seconds-----' % ((time.time() - start_time) / 3600))
+    print('-----%s seconds-----' % (time.time() - start_time))
