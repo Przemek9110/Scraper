@@ -5,9 +5,9 @@ from requests import get
 from tqdm import tqdm
 from sqlalchemy import create_engine
 import pandas as pd
+import numpy as np
 import time
 import datetime
-
 
 engine = create_engine('mysql+pymysql://root:pass@/scrapper', encoding='UTF-8', echo=False)
 rooms = {'rooms': ['one', 'two', 'three', 'four']}
@@ -17,14 +17,15 @@ title = []
 price = []
 offer_type = []
 price_per_meter = []
-level = []
+floor = []
 area = []
 type_of_building = []
 city_list = []
 market_list = []
 rooms_list = []
 no_page_found = []
-scrap_date =[]
+scrap_month = []
+date = datetime.datetime.now()
 
 
 def parse_price(price):
@@ -89,35 +90,35 @@ def page_scrapper(soup):  # TODO add otodom BeautifulSoup
                 parse_price_per_meter(info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[1].get_text().strip()))
             level_text = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[2].get_text().strip()
             if level_text.startswith('Poziom'):
-                level.append(parse_level(level_text))
+                floor.append(parse_level(level_text))
             else:
-                level.append('')
+                floor.append(np.nan)
 
             area_text = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[6].get_text().strip()
             if area_text.startswith('Powierzchnia'):
                 area.append(parse_area(area_text))
             else:
-                area.append('')
+                area.append(np.nan)
 
             type_of_building_txt = info.findAllNext('p', class_='css-xl6fe0-Text eu5v0x0')[5].get_text().strip()
             if type_of_building_txt.startswith('Rodzaj'):
                 type_of_building.append(parse_type_of_building(type_of_building_txt))
             else:
-                type_of_building.append('')
+                type_of_building.append(np.nan)
 
             city_list.append(city)
             market_list.append(market.replace('secondary', 'wtorny').replace('primary', 'pierwotny'))
             rooms_list.append(
                 int(rooms.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
-            scrap_date.append(datetime.date)
+            scrap_month.append(date.strftime('%B'))
             # TODO add list with dates when scrapped
         except ValueError as e:
             print(f'Value Error {e}')  # TODO add saving exception to exception_log list
 
     dictionary = {'offer_title': title, 'price': price, 'offer_type': offer_type,
-                  'price_per_meter': price_per_meter, 'level': level, 'area': area,
+                  'price_per_meter': price_per_meter, 'floor': floor, 'area': area,
                   'offer_type_of_building': type_of_building, 'city_name': city_list,
-                  'market': market_list, 'rooms': rooms_list, 'date': scrap_date}
+                  'market': market_list, 'rooms': rooms_list, 'month': scrap_month}
 
     return dictionary
 
@@ -151,7 +152,7 @@ if __name__ == '__main__':
         for j, room in enumerate(rooms['rooms']):
             for k, city in enumerate(cities['0']):
                 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter' \
-                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + room
+                                                                                       '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + room
                 if site_pages_count(URL) is None:
                     print(f'No offers: {URL}')
                 else:
