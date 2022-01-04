@@ -162,4 +162,4 @@ if __name__ == '__main__':
     df.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
     pd.DataFrame(no_page_found).to_csv('exceptions.csv', mode='w', index=False)
     print('WORK DONE!')
-    print('-----%s seconds-----' % (time.time() - start_time))
+    print('-----%s seconds-----' % str(datetime.timedelta(seconds=(time.time() - start_time))))
