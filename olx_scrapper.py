@@ -28,7 +28,7 @@ scrap_date =[]
 
 
 def parse_price(price):
-    return float(price.replace(' ', '').replace('zł', '').replace(',', ''))
+    return float(price.replace(' ', '').replace('zł', '').replace(',', '.'))
 
 
 def parse_price_per_meter(price):
