@@ -7,9 +7,10 @@ from sqlalchemy import create_engine
 import pandas as pd
 import time
 import city_names_scrapper
+import datetime
 
 
-# engine = create_engine('mysql+pymysql://root:pass@/scrapper', encoding='UTF-8', echo=False)
+engine = create_engine('mysql+pymysql://root:pass@/scrapper', encoding='UTF-8', echo=False)
 rooms = {'rooms': ['one', 'two', 'three', 'four']}
 market = {'market': ['primary', 'secondary']}
 dictionary = {}
@@ -24,6 +25,7 @@ city_list = []
 market_list = []
 rooms_list = []
 no_page_found = []
+scrap_date =[]
 
 
 def parse_price(price):
@@ -108,6 +110,7 @@ def page_scrapper(soup):  # TODO add otodom BeautifulSoup
             market_list.append(market.replace('secondary', 'wtorny').replace('primary', 'pierwotny'))
             rooms_list.append(
                 int(rooms.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
+            scrap_date.append(datetime.date)
             # TODO add list with dates when scrapped
         except ValueError as e:
             print(f'Value Error {e}')  # TODO add saving exception to exception_log list
@@ -115,7 +118,7 @@ def page_scrapper(soup):  # TODO add otodom BeautifulSoup
     dictionary = {'offer_title': title, 'price': price, 'offer_type': offer_type,
                   'price_per_meter': price_per_meter, 'level': level, 'area': area,
                   'offer_type_of_building': type_of_building, 'city_name': city_list,
-                  'market': market_list, 'rooms': rooms_list}
+                  'market': market_list, 'rooms': rooms_list, 'date': scrap_date}
 
     return dictionary
 
@@ -141,7 +144,7 @@ def main(URL):
 
 if __name__ == '__main__':
     print('Scrapper Running...')
-    city_names_scrapper
+    exec(open('city_names_scrapper.py').read())
     start_time = time.time()
     cities = pd.read_csv('cities.csv')
     print('WORK START!!!')
@@ -155,7 +158,7 @@ if __name__ == '__main__':
                 else:
                     df = pd.DataFrame(main(URL))
 
-    # df.to_sql('Offers', engine, if_exists='replace', index=False)
+    df.to_sql('Offers', engine, if_exists='replace', index=False)
     df.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
     pd.DataFrame(no_page_found).to_csv('exceptions.csv', mode='w', index=False)
     print('WORK DONE!')
