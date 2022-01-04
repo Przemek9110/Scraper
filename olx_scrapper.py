@@ -109,7 +109,7 @@ def page_scrapper(soup):  # TODO add otodom BeautifulSoup
             city_list.append(city)
             market_list.append(market.replace('secondary', 'wtorny').replace('primary', 'pierwotny'))
             rooms_list.append(
-                int(rooms.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
+                int(room.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
             scrap_month.append(date.strftime('%B'))
             # TODO add list with dates when scrapped
         except ValueError as e:
