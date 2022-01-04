@@ -6,7 +6,6 @@ from tqdm import tqdm
 from sqlalchemy import create_engine
 import pandas as pd
 import time
-import city_names_scrapper
 import datetime
 
 
@@ -38,7 +37,7 @@ def parse_price_per_meter(price):
 
 def parse_level(level_text):
     return int(level_text.replace('Poziom: ', '').replace('Parter', '0')
-               .replace('Powyżej ', '').replace('Suterena', '-1').replace('Poddasze ', '11'))
+               .replace('Powyżej ', '').replace('Suterena', '-1').replace('Poddasze', '11'))
 
 
 def parse_area(area_text):
@@ -149,10 +148,10 @@ if __name__ == '__main__':
     cities = pd.read_csv('cities.csv')
     print('WORK START!!!')
     for i, market in enumerate(market['market']):
-        for j, rooms in enumerate(rooms['rooms']):
+        for j, room in enumerate(rooms['rooms']):
             for k, city in enumerate(cities['0']):
                 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter' \
-                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + rooms
+                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + room
                 if site_pages_count(URL) is None:
                     print(f'No offers: {URL}')
                 else:
