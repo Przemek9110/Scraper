@@ -46,7 +46,7 @@ def parse_area(area_text):
 
 
 def parse_type_of_building(type_of_building_text):
-    return type_of_building_text.replace('Rodzaj zabudowy : ', '')
+    return type_of_building_text.replace('Rodzaj zabudowy: ', '')
 
 
 def setup(argv):
@@ -134,11 +134,11 @@ def offer_iterator(link_list):
 
 
 def main(URL):
-    print(f'\nApplication starts scraping from {URL}')
-    for offers_site in tqdm(range(site_pages_count(URL))):
+    # print(f'\nApplication starts scraping from {URL}')
+    for offers_site in (range(site_pages_count(URL))):
         offer_link = offer_link_finder(URL, offers_site)
         diction = offer_iterator(offer_link)
-    print("Scrapped!!\n")
+    # print("Scrapped!!\n")
     return diction
 
 
@@ -147,14 +147,16 @@ if __name__ == '__main__':
     exec(open('city_names_scrapper.py').read())
     start_time = time.time()
     cities = pd.read_csv('cities.csv')
-    print('WORK START!!!')
+    count = 0
     for i, market in enumerate(market['market']):
         for j, room in enumerate(rooms['rooms']):
-            for k, city in enumerate(cities['0']):
+            print(f'\nScraping {count + 1}/8 | market: {market} | rooms: {room}')
+            for k, city in enumerate(tqdm(cities['0'])):
                 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter' \
                                                                                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + room
                 if site_pages_count(URL) is None:
-                    print(f'No offers: {URL}')
+                    # print(f'No offers: {URL}')
+                    continue
                 else:
                     df = pd.DataFrame(main(URL))
 
