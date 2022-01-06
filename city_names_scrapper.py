@@ -6,7 +6,10 @@ from tqdm import tqdm
 print('Creating cities.csv file...')
 path = 'voivodeship.csv'
 data = pd.read_csv(path, index_col=0)
+iterator = data['links']
 city_name = []
+voivodeship_name = []
+dictionary = {}
 
 
 def fetch_page(URL):
@@ -21,11 +24,14 @@ def parse_city_name(name):
                                                                                                                   ''))
 
 
-for index, URL in tqdm(enumerate(data['links'])):
+for index, URL in enumerate(tqdm(iterator)):
     soup = fetch_page(URL)
     for info in soup.findAll('span', class_='link'):
         city_name.append(parse_city_name(info.findAllNext('a', class_='tdnone')[0].get_text().strip().lower()))
+        voivodeship_name.append(data.at[index, 'voivodeship'])
     city_name.pop()
+    voivodeship_name.pop()
+dictionary = {'city': city_name, 'voivodeship': voivodeship_name}
 
-file = pd.DataFrame(city_name)
-file.to_csv('cities.csv', mode='w', index=False)
+file = pd.DataFrame(dictionary)
+file.to_csv('cities.csv', mode='w', index=True)
