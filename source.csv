@@ -1,0 +1,875 @@
+,city,voivodeship,Name,Population,Latitude,Longitude
+0,bielawa,Dolnoslaskie,Bielawa,31023.0,50.6871117,16.6160879
+1,bierutow,Dolnoslaskie,Bierutów,5032.0,51.125273799999995,17.5400351
+2,bogatynia,Dolnoslaskie,Bogatynia,18030.0,50.90771470000001,14.9539185
+3,boguszow-gorce,Dolnoslaskie,Boguszów-Gorce,15640.0,50.7566795,16.204389499999998
+4,boleslawiec,Dolnoslaskie,Bolesławiec,39603.0,51.2630333,15.5651049
+5,boleslawiec,Łódzkie,Bolesławiec,39603.0,51.2630333,15.5651049
+6,bolkow,Dolnoslaskie,Bolków,4967.0,50.9219695,16.1006519
+7,brzeg-dolny,Dolnoslaskie,Brzeg Dolny,12536.0,51.2613682,16.7228123
+8,bystrzyca-klodzka,Dolnoslaskie,Bystrzyca Kłodzka,10476.0,50.2968684,16.652017
+9,chocianow,Dolnoslaskie,Chocianów,8194.0,51.41683270000001,15.8986889
+10,chojnow,Dolnoslaskie,Chojnów,14071.0,51.2722894,15.933524100000001
+11,dzierzoniow,Dolnoslaskie,Dzierżoniów,34428.0,50.72835429999999,16.6506207
+12,gryfow-slaski,Dolnoslaskie,Gryfów Śląski,6902.0,51.0281455,15.414505100000001
+13,gora,Dolnoslaskie,Góra,12448.0,51.6681499,16.5393277
+14,glogow,Dolnoslaskie,Głogów,68997.0,51.6636791,16.093556699999997
+15,jawor,Dolnoslaskie,Jawor,22758.0,51.0504653,16.1932008
+16,jelcz-laskowice,Dolnoslaskie,Jelcz-Laskowice,15828.0,51.0398306,17.3499638
+17,jelenia-gora,Dolnoslaskie,Jelenia Góra,84306.0,50.9031028,15.734430599999998
+18,kamienna-gora,Dolnoslaskie,Kamienna Góra,20014.0,50.783736100000006,16.0336631
+19,karpacz,Dolnoslaskie,Karpacz,4570.0,50.7747485,15.754203500000001
+20,kowary,Dolnoslaskie,Kowary,10813.0,50.7937534,15.8338236
+21,kudowa-zdroj,Dolnoslaskie,Kudowa-Zdrój,10241.0,50.4420034,16.2416299
+22,katy-wroclawskie,Dolnoslaskie,Kąty Wrocławskie,6422.0,51.0302656,16.770232500000002
+23,klodzko,Dolnoslaskie,Kłodzko,27997.0,50.438651,16.6551878
+24,legnica,Dolnoslaskie,Legnica,99752.0,51.208161700000005,16.1603187
+25,luban,Dolnoslaskie,Lubań,21921.0,51.1180898,15.289265099999998
+26,lubin,Dolnoslaskie,Lubin,74053.0,51.3974465,16.2051275
+27,lwowek-slaski,Dolnoslaskie,Lwówek Śląski,9271.0,51.1108891,15.5850018
+28,ladek-zdroj,Dolnoslaskie,Lądek-Zdrój,5917.0,50.345825399999995,16.8725948
+29,milicz,Dolnoslaskie,Milicz,11758.0,51.5319957,17.2752485
+30,mirsk,Dolnoslaskie,Mirsk,3981.0,50.9721836,15.3857926
+31,nowa-ruda,Dolnoslaskie,Nowa Ruda,23236.0,50.5791982,16.501475699999997
+32,nowogrodziec,Dolnoslaskie,Nowogrodziec,4244.0,51.1971363,15.3987046
+33,oborniki-slaskie,Dolnoslaskie,Oborniki Śląskie,9038.0,51.3010662,16.9145509
+34,olesnica,Dolnoslaskie,Oleśnica,37303.0,51.2095314,17.380455899999998
+35,olesnica,Dolnoslaskie,Oleśnica,1800.0,50.450646500000005,21.0637505
+36,olesnica,Świętokrzyskie,Oleśnica,37303.0,51.2095314,17.380455899999998
+37,olesnica,Świętokrzyskie,Oleśnica,1800.0,50.450646500000005,21.0637505
+38,olesnica,Świętokrzyskie,Oleśnica,37303.0,51.2095314,17.380455899999998
+39,olesnica,Świętokrzyskie,Oleśnica,1800.0,50.450646500000005,21.0637505
+40,olawa,Dolnoslaskie,Oława,32240.0,50.9431901,17.295706600000003
+41,piechowice,Dolnoslaskie,Piechowice,6194.0,50.8494747,15.5976047
+42,pieszyce,Dolnoslaskie,Pieszyce,7254.0,50.7124412,16.581609
+43,polanica-zdroj,Dolnoslaskie,Polanica-Zdrój,6663.0,50.4079276,16.5107431
+44,polkowice,Dolnoslaskie,Polkowice,22525.0,51.5039288,16.071337099999997
+45,prochowice,Dolnoslaskie,Prochowice,3649.0,51.273422,16.3644321
+46,prusice,Dolnoslaskie,Prusice,2274.0,51.37076629999999,16.962681600000003
+47,siechnice,Dolnoslaskie,Siechnice,6063.0,51.0323875,17.1507275
+48,sobotka,Dolnoslaskie,Sobótka,6991.0,50.8990885,16.7445705
+49,strzegom,Dolnoslaskie,Strzegom,16769.0,50.960106599999996,16.3462134
+50,strzelin,Dolnoslaskie,Strzelin,12556.0,50.78092,17.0683947
+51,sycow,Dolnoslaskie,Syców,10413.0,51.309979999999996,17.72354
+52,szczawno-zdroj,Dolnoslaskie,Szczawno-Zdrój,5796.0,50.806695899999994,16.2540971
+53,szczytna,Dolnoslaskie,Szczytna,5363.0,50.4169281,16.4408185
+54,szklarska-poreba,Dolnoslaskie,Szklarska Poręba,6557.0,50.8275855,15.521165900000002
+55,trzebnica,Dolnoslaskie,Trzebnica,12945.0,51.3096424,17.062596
+56,twardogora,Dolnoslaskie,Twardogóra,6762.0,51.364557,17.469599
+57,walbrzych,Dolnoslaskie,Wałbrzych,122927.0,50.7659054,16.2825424
+58,wolow,Dolnoslaskie,Wołów,12646.0,51.336384100000004,16.648690300000002
+59,wroclaw,Dolnoslaskie,Wrocław,634487.0,51.1089776,17.032668899999997
+60,wysoka,Dolnoslaskie,Wysoka,2758.0,53.1829333,17.0797137
+61,zgorzelec,Dolnoslaskie,Zgorzelec,32332.0,51.1476999,15.007902800000002
+62,ziebice,Dolnoslaskie,Ziębice,9117.0,50.6007752,17.0405633
+63,zabkowice-slaskie,Dolnoslaskie,Ząbkowice Śląskie,15707.0,50.5892698,16.8111518
+64,zlotoryja,Dolnoslaskie,Złotoryja,15496.0,51.1234907,15.916514600000001
+65,zloty-stok,Dolnoslaskie,Złoty Stok,2935.0,50.445143,16.8765836
+66,scinawa,Dolnoslaskie,Ścinawa,5798.0,51.4165346,16.425973199999998
+67,sroda-slaska,Dolnoslaskie,Środa Śląska,9317.0,51.163894899999995,16.5942505
+68,swidnica,Dolnoslaskie,Świdnica,59182.0,50.8424835,16.4870549
+69,swidnica,Lubuskie,Świdnica,59182.0,50.8424835,16.4870549
+70,swiebodzice,Dolnoslaskie,Świebodzice,23152.0,50.859573,16.3196056
+71,zarow,Dolnoslaskie,Żarów,6644.0,50.943841600000006,16.4923538
+72,zmigrod,Dolnoslaskie,Żmigród,6485.0,51.4717386,16.9082719
+73,aleksandrow-kujawski,Kujawsko-pomorskie,Aleksandrów Kujawski,12565.0,52.8765365,18.6935744
+74,barcin,Kujawsko-pomorskie,Barcin,7609.0,52.8632346,17.947246300000003
+75,brodnica,Kujawsko-pomorskie,Brodnica,28579.0,53.258092000000005,19.399362600000003
+76,brzesc-kujawski,Kujawsko-pomorskie,Brześć Kujawski,4697.0,52.6048164,18.901546300000003
+77,bydgoszcz,Kujawsko-pomorskie,Bydgoszcz,350178.0,53.12196479999999,18.0002529
+78,bydgoszcz,Pomorskie,Bydgoszcz,350178.0,53.12196479999999,18.0002529
+79,chelmno,Kujawsko-pomorskie,Chełmno,20622.0,53.3493915,18.4235473
+80,chelmza,Kujawsko-pomorskie,Chełmża,14967.0,53.1860233,18.6112806
+81,chodecz,Kujawsko-pomorskie,Chodecz,1893.0,52.4051735,19.0272596
+82,ciechocinek,Kujawsko-pomorskie,Ciechocinek,10880.0,52.882552000000004,18.7906883
+83,gniewkowo,Kujawsko-pomorskie,Gniewkowo,7200.0,52.894429,18.406681699999996
+84,golub-dobrzyn,Kujawsko-pomorskie,Golub-Dobrzyń,12945.0,53.1138924,19.0544501
+85,grudziadz,Kujawsko-pomorskie,Grudziądz,97676.0,53.487647700000004,18.7557759
+86,inowroclaw,Kujawsko-pomorskie,Inowrocław,75001.0,52.795240799999995,18.259562399999997
+87,jablonowo-pomorskie,Kujawsko-pomorskie,Jabłonowo Pomorskie,3806.0,53.387983999999996,19.1527034
+88,janikowo,Kujawsko-pomorskie,Janikowo,9169.0,52.75316479999999,18.114102399999997
+89,janikowo,Wielkopolskie,Janikowo,9169.0,52.75316479999999,18.114102399999997
+90,janowiec-wielkopolski,Kujawsko-pomorskie,Janowiec Wielkopolski,4002.0,52.7567264,17.4887698
+91,kamien-krajenski,Kujawsko-pomorskie,Kamień Krajeński,2358.0,53.5333203,17.5199143
+92,kcynia,Kujawsko-pomorskie,Kcynia,4713.0,52.99176679999999,17.4873729
+93,koronowo,Kujawsko-pomorskie,Koronowo,11384.0,53.314063600000004,17.9369813
+94,kowal,Kujawsko-pomorskie,Kowal,3541.0,52.5308373,19.1499427
+95,kowalewo-pomorskie,Kujawsko-pomorskie,Kowalewo Pomorskie,4261.0,53.154313699999996,18.8975473
+96,kruszwica,Kujawsko-pomorskie,Kruszwica,9004.0,52.6743797,18.325476600000002
+97,lipno,Kujawsko-pomorskie,Lipno,14968.0,52.847390100000005,19.1792654
+98,lubien-kujawski,Kujawsko-pomorskie,Lubień Kujawski,1401.0,52.40736,19.16018
+99,lubraniec,Kujawsko-pomorskie,Lubraniec,3068.0,52.543082999999996,18.8315832
+100,mogilno,Kujawsko-pomorskie,Mogilno,12369.0,52.657341,17.950067699999998
+101,mrocza,Kujawsko-pomorskie,Mrocza,4393.0,53.2438463,17.6072363
+102,naklo-nad-notecia,Kujawsko-pomorskie,Nakło nad Notecią,19193.0,53.138689600000006,17.5998891
+103,nowe,Kujawsko-pomorskie,Nowe,6022.0,53.646232499999996,18.7290468
+104,pakosc,Kujawsko-pomorskie,Pakość,5997.0,52.8073319,18.089961199999998
+105,piotrkow-kujawski,Kujawsko-pomorskie,Piotrków Kujawski,4462.0,52.55056999999999,18.498720000000002
+106,radziejow,Kujawsko-pomorskie,Radziejów,5670.0,52.6251015,18.526943399999997
+107,rogozno,Kujawsko-pomorskie,Rogoźno,11309.0,52.75230229999999,16.9936288
+108,rogozno,Wielkopolskie,Rogoźno,11309.0,52.75230229999999,16.9936288
+109,rypin,Kujawsko-pomorskie,Rypin,16834.0,53.0672809,19.4060273
+110,skepe,Kujawsko-pomorskie,Skępe,3669.0,52.867156200000004,19.3465204
+111,solec-kujawski,Kujawsko-pomorskie,Solec Kujawski,15642.0,53.079196499999995,18.2246086
+112,strzelno,Kujawsko-pomorskie,Strzelno,5812.0,52.630174200000006,18.1733807
+113,szubin,Kujawsko-pomorskie,Szubin,9580.0,53.0117503,17.7439402
+114,sepolno-krajenskie,Kujawsko-pomorskie,Sępólno Krajeńskie,9368.0,53.4547434,17.534837300000003
+115,torun,Kujawsko-pomorskie,Toruń,203447.0,53.0102721,18.604809399999997
+116,tuchola,Kujawsko-pomorskie,Tuchola,13949.0,53.58809010000001,17.8590414
+117,wiecbork,Kujawsko-pomorskie,Więcbork,5970.0,53.352545299999996,17.4873925
+118,wabrzezno,Kujawsko-pomorskie,Wąbrzeźno,14040.0,53.2799665,18.947293
+119,wloclawek,Kujawsko-pomorskie,Włocławek,114885.0,52.660554299999994,19.072062699999996
+120,zamosc,Kujawsko-pomorskie,Zamość,65255.0,50.7170854,23.2525711
+121,zamosc,Lubelskie,Zamość,65255.0,50.7170854,23.2525711
+122,zielonka,Kujawsko-pomorskie,Zielonka,17528.0,52.310846999999995,21.1523199
+123,zielonka,Mazowieckie,Zielonka,17528.0,52.310846999999995,21.1523199
+124,labiszyn,Kujawsko-pomorskie,Łabiszyn,4379.0,52.95286529999999,17.9205877
+125,lasin,Kujawsko-pomorskie,Łasin,3377.0,53.51965260000001,19.0870311
+126,swiecie,Kujawsko-pomorskie,Świecie,26395.0,53.40725179999999,18.4455253
+127,znin,Kujawsko-pomorskie,Żnin,14181.0,52.848462,17.721879100000002
+128,annopol,Lubelskie,Annopol,2675.0,50.8851655,21.8550836
+129,belzyce,Lubelskie,Bełżyce,6765.0,51.175063,22.2749995
+130,biala,Lubelskie,Biała,2456.0,50.3853609,17.659910699999998
+131,biala,Mazowieckie,Biała,2456.0,50.3853609,17.659910699999998
+132,biala,Opolskie,Biała,2456.0,50.3853609,17.659910699999998
+133,biala-podlaska,Lubelskie,Biała Podlaska,57658.0,52.0338399,23.119394800000002
+134,bilgoraj,Lubelskie,Biłgoraj,27169.0,50.5424846,22.7209326
+135,bychawa,Lubelskie,Bychawa,5178.0,51.0152225,22.534535
+136,chelm,Lubelskie,Chełm,108311.0,51.1339221,23.4711548
+137,deblin,Lubelskie,Dęblin,16656.0,51.562490999999994,21.8654383
+138,frampol,Lubelskie,Frampol,1444.0,50.671832,22.669866600000002
+139,hrubieszow,Lubelskie,Hrubieszów,18585.0,50.804736299999995,23.8873816
+140,janow-lubelski,Lubelskie,Janów Lubelski,12092.0,50.7065895,22.4110663
+141,jozefow,Lubelskie,Józefów,19914.0,52.1361065,21.234551
+142,jozefow,Lubelskie,Józefów,2494.0,50.480395,23.053635999999997
+143,jozefow,Łódzkie,Józefów,19914.0,52.1361065,21.234551
+144,jozefow,Łódzkie,Józefów,2494.0,50.480395,23.053635999999997
+145,jozefow,Mazowieckie,Józefów,19914.0,52.1361065,21.234551
+146,jozefow,Mazowieckie,Józefów,2494.0,50.480395,23.053635999999997
+147,kazimierz-dolny,Lubelskie,Kazimierz Dolny,2607.0,51.3220058,21.947372
+148,krasnobrod,Lubelskie,Krasnobród,3075.0,50.5460046,23.2115593
+149,krasnystaw,Lubelskie,Krasnystaw,19539.0,50.984475700000004,23.1635704
+150,krasnik,Lubelskie,Kraśnik,35788.0,50.92492360000001,22.229206
+151,lubartow,Lubelskie,Lubartów,21755.0,51.4660473,22.605289499999998
+152,lublin,Lubelskie,Lublin,340466.0,51.250559,22.5701022
+153,miedzyrzec-podlaski,Lubelskie,Międzyrzec Podlaski,17117.0,51.985317200000004,22.7842492
+154,modliborzyce,Lubelskie,Modliborzyce,1440.0,50.7534467,22.329171399999996
+155,naleczow,Lubelskie,Nałęczów,4033.0,51.2876064,22.214792000000003
+156,opole-lubelskie,Lubelskie,Opole Lubelskie,8860.0,51.1475365,21.9664152
+157,ostrow-lubelski,Lubelskie,Ostrów Lubelski,2153.0,51.497119700000006,22.855468300000002
+158,parczew,Lubelskie,Parczew,10204.0,51.638999999999996,22.9
+159,piaski,Lubelskie,Piaski,2621.0,51.1378115,22.8475225
+160,poniatowa,Lubelskie,Poniatowa,9646.0,51.19298,22.06505
+161,pulawy,Lubelskie,Puławy,49100.0,51.4171713,21.9720582
+162,radzyn-podlaski,Lubelskie,Radzyń Podlaski,15963.0,51.782725299999996,22.6208818
+163,rejowiec-fabryczny,Lubelskie,Rejowiec Fabryczny,4515.0,51.1191844,23.246733300000002
+164,ryki,Lubelskie,Ryki,9955.0,51.6266968,21.935696
+165,stoczek-lukowski,Lubelskie,Stoczek Łukowski,2700.0,51.9617406,21.969707800000002
+166,szczebrzeszyn,Lubelskie,Szczebrzeszyn,5245.0,50.6946972,22.9786754
+167,tarnogrod,Lubelskie,Tarnogród,3362.0,50.361309000000006,22.7419384
+168,terespol,Lubelskie,Terespol,5815.0,52.075616700000005,23.6133645
+169,tomaszow-lubelski,Lubelskie,Tomaszów Lubelski,19550.0,50.45732879999999,23.4170362
+170,tyszowce,Lubelskie,Tyszowce,2171.0,50.6172008,23.6982172
+171,urzedow,Lubelskie,Urzędów,3500.0,50.9939046,22.143575600000002
+172,wlodawa,Lubelskie,Włodawa,13066.0,51.5466412,23.553219
+173,zwierzyniec,Lubelskie,Zwierzyniec,3347.0,50.614587799999995,22.9706317
+174,laszczow,Lubelskie,Łaszczów,2202.0,50.532615,23.726392899999997
+175,lukow,Lubelskie,Łuków,30381.0,51.93008,22.379066899999998
+176,leczna,Lubelskie,Łęczna,19304.0,51.3002941,22.886766
+177,swidnik,Lubelskie,Świdnik,40225.0,51.220462899999994,22.6998639
+178,babimost,Lubuskie,Babimost,4037.0,52.165312,15.828517499999998
+179,bytom-odrzanski,Lubuskie,Bytom Odrzański,4408.0,51.73082670000001,15.826918
+180,cybinka,Lubuskie,Cybinka,2809.0,52.1940293,14.796884099999998
+181,czerwiensk,Lubuskie,Czerwieńsk,4110.0,52.0130585,15.421146300000002
+182,dobiegniew,Lubuskie,Dobiegniew,3169.0,52.9667749,15.7548055
+183,drezdenko,Lubuskie,Drezdenko,10200.0,52.8396642,15.832308300000001
+184,dabie,Lubuskie,Dąbie,2089.0,52.0871691,18.822073800000002
+185,gorzow,Lubuskie,Gorzów Wielkopolski,124344.0,52.7309926,15.2400451
+186,gubin,Lubuskie,Gubin,16952.0,51.95098170000001,14.7272814
+187,ilowa,Lubuskie,Iłowa,4013.0,51.5006828,15.198459900000001
+188,jasien,Lubuskie,Jasień,4463.0,51.751544200000005,15.0123351
+189,kargowa,Lubuskie,Kargowa,3743.0,52.0719225,15.864804399999999
+190,kostrzyn-nad-odra,Lubuskie,Kostrzyn nad Odrą,18155.0,52.589873700000005,14.6536335
+191,kozuchow,Lubuskie,Kożuchów,9752.0,51.7454592,15.594459699999998
+192,krosno-odrzanskie,Lubuskie,Krosno Odrzańskie,11983.0,52.053636100000006,15.0980258
+193,klodawa,Lubuskie,Kłodawa,6721.0,52.2574519,18.911206
+194,lubsko,Lubuskie,Lubsko,14554.0,51.7881902,14.972126600000001
+195,maszewo,Lubuskie,Maszewo,3337.0,53.496221999999996,15.0613549
+196,maszewo,Zachodniopomorskie,Maszewo,3337.0,53.496221999999996,15.0613549
+197,malomice,Lubuskie,Małomice,3573.0,51.5550002,15.4472908
+198,miedzyrzecz,Lubuskie,Międzyrzecz,18552.0,52.44482610000001,15.578636999999999
+199,nowa-sol,Lubuskie,Nowa Sól,39721.0,51.801959499999995,15.717560800000001
+200,nowe-miasteczko,Lubuskie,Nowe Miasteczko,2884.0,51.690810299999995,15.7311977
+201,nowogrod-bobrzanski,Lubuskie,Nowogród Bobrzański,5161.0,51.7986474,15.236503200000001
+202,otyn,Lubuskie,Otyń,1500.0,51.8473213,15.7104
+203,osno-lubuskie,Lubuskie,Ośno Lubuskie,3889.0,52.45513199999999,14.8682003
+204,rzepin,Lubuskie,Rzepin,6689.0,52.34432,14.8382902
+205,skwierzyna,Lubuskie,Skwierzyna,9768.0,52.5967483,15.501095800000002
+206,strzelce-krajenskie,Lubuskie,Strzelce Krajeńskie,10109.0,52.8785255,15.532592499999998
+207,sulechow,Lubuskie,Sulechów,17461.0,52.0854782,15.6259091
+208,sulecin,Lubuskie,Sulęcin,10265.0,52.44137679999999,15.116150099999999
+209,szlichtyngowa,Lubuskie,Szlichtyngowa,1328.0,51.7140748,16.2445989
+210,szprotawa,Lubuskie,Szprotawa,12329.0,51.5650714,15.5367584
+211,slawa,Lubuskie,Sława,4318.0,51.8807001,16.0702499
+212,slubice,Lubuskie,Słubice,16908.0,52.3557481,14.5662367
+213,torzym,Lubuskie,Torzym,2597.0,52.3138586,15.082827900000002
+214,trzciel,Lubuskie,Trzciel,2496.0,52.365165999999995,15.873213
+215,witnica,Lubuskie,Witnica,6951.0,52.672939899999996,14.897212099999999
+216,wschowa,Lubuskie,Wschowa,14329.0,51.8038354,16.317277100000002
+217,zbaszynek,Lubuskie,Zbąszynek,5078.0,52.24350020000001,15.813904699999998
+218,zielona-gora,Lubuskie,Zielona Góra,119182.0,51.9383777,15.5050408
+219,lagow,Lubuskie,Łagów,1562.0,50.775487700000006,21.0839837
+220,lagow,Świętokrzyskie,Łagów,1562.0,50.775487700000006,21.0839837
+221,lagow,Świętokrzyskie,Łagów,1562.0,50.775487700000006,21.0839837
+222,leknica_89867,Lubuskie,Łęknica,2602.0,51.538237,14.7445378
+223,swiebodzin,Lubuskie,Świebodzin,22064.0,52.2498357,15.5324973
+224,zagan,Lubuskie,Żagań,26492.0,51.6148068,15.320372099999998
+225,zary,Lubuskie,Żary,38527.0,51.6385162,15.1422487
+226,aleksandrow-lodzki,Łódzkie,Aleksandrów Łódzki,21245.0,51.8196533,19.3035375
+227,belchatow,Łódzkie,Bełchatów,59565.0,51.3650175,19.369183300000003
+228,biala-rawska,Łódzkie,Biała Rawska,3244.0,51.807597799999996,20.472094199999997
+229,brzeziny,Łódzkie,Brzeziny,12577.0,51.8004949,19.7517694
+230,brzeziny,Świętokrzyskie,Brzeziny,12577.0,51.8004949,19.7517694
+231,brzeziny,Świętokrzyskie,Brzeziny,12577.0,51.8004949,19.7517694
+232,blaszki,Łódzkie,Błaszki,2273.0,51.6525013,18.432926100000003
+233,drzewica,Łódzkie,Drzewica,4008.0,51.450838399999995,20.4773617
+234,dzialoszyn,Łódzkie,Działoszyn,6173.0,51.1168037,18.8651633
+235,glowno,Łódzkie,Głowno,14814.0,51.9660873,19.713566500000002
+236,kamiensk,Łódzkie,Kamieńsk,2890.0,51.204172,19.4970714
+237,koluszki,Łódzkie,Koluszki,13419.0,51.7444956,19.817966000000002
+238,konstantynow-lodzki,Łódzkie,Konstantynów Łódzki,17804.0,51.7475546,19.3255118
+239,krosniewice,Łódzkie,Krośniewice,4460.0,52.256063899999994,19.1689326
+240,kutno,Łódzkie,Kutno,45657.0,52.2317559,19.3570182
+241,lututow,Łódzkie,Lututów,2235.0,51.3712494,18.434600699999997
+242,opoczno,Łódzkie,Opoczno,22188.0,51.3782439,20.2931754
+243,ozorkow,Łódzkie,Ozorków,20175.0,51.963610100000004,19.2918111
+244,pabianice,Łódzkie,Pabianice,67688.0,51.6639859,19.353502399999996
+245,pajeczno,Łódzkie,Pajęczno,6700.0,51.146882399999996,18.9956984
+246,piotrkow-trybunalski,Łódzkie,Piotrków Trybunalski,75903.0,51.4082625,19.696167000000003
+247,piatek,Łódzkie,Piątek,2130.0,52.068988299999994,19.479972600000004
+248,poddebice,Łódzkie,Poddębice,7780.0,51.8931973,18.9517348
+249,przedborz,Łódzkie,Przedbórz,3800.0,51.0868077,19.8744414
+250,radomsko,Łódzkie,Radomsko,47643.0,51.067476899999996,19.4446109
+251,rawa-mazowiecka,Łódzkie,Rawa Mazowiecka,17819.0,51.7624929,20.2519293
+252,rzgow,Łódzkie,Rzgów,3300.0,51.662645899999994,19.4908076
+253,sieradz,Łódzkie,Sieradz,43356.0,51.594247499999994,18.7378774
+254,skierniewice,Łódzkie,Skierniewice,48634.0,51.9568581,20.1430044
+255,strykow,Łódzkie,Stryków,3537.0,51.900944700000004,19.6036969
+256,sulejow,Łódzkie,Sulejów,6349.0,51.3549202,19.8890802
+257,szadek,Łódzkie,Szadek,2019.0,51.69175,18.97703
+258,tomaszow-mazowiecki,Łódzkie,Tomaszów Mazowiecki,64893.0,51.5316918,20.008419500000002
+259,tuszyn,Łódzkie,Tuszyn,7201.0,51.60308,19.544539999999998
+260,ujazd,Łódzkie,Ujazd,1740.0,50.3892513,18.350450199999997
+261,ujazd,Opolskie,Ujazd,1740.0,50.3892513,18.350450199999997
+262,uniejow,Łódzkie,Uniejów,3079.0,51.974130200000005,18.793245000000002
+263,warta,Łódzkie,Warta,3337.0,51.708192700000005,18.625079100000004
+264,wielun,Łódzkie,Wieluń,23546.0,51.2205345,18.5701081
+265,wieruszow,Łódzkie,Wieruszów,8848.0,51.29516470000001,18.151062300000003
+266,wolborz,Łódzkie,Wolbórz,2381.0,51.5036311,19.830319
+267,zdunska-wola,Łódzkie,Zduńska Wola,43615.0,51.602861499999996,18.9333201
+268,zelow,Łódzkie,Zelów,7833.0,51.4652772,19.218494699999997
+269,zgierz,Łódzkie,Zgierz,57503.0,51.8559434,19.4056443
+270,zloczew,Łódzkie,Złoczew,3377.0,51.417511700000006,18.6059007
+271,lask,Łódzkie,Łask,18029.0,51.592994700000006,19.133478399999998
+272,lowicz,Łódzkie,Łowicz,29420.0,52.107683,19.9447873
+273,lodz,Łódzkie,Łódź,711332.0,51.768732299999996,19.456991100000003
+274,lodz,Wielkopolskie,Łódź,711332.0,51.768732299999996,19.456991100000003
+275,leczyca,Łódzkie,Łęczyca,14786.0,52.059364200000005,19.201568100000003
+276,zychlin,Łódzkie,Żychlin,8576.0,52.244008799999996,19.6260932
+277,alwernia,Małopolskie,Alwernia,3425.0,50.0690434,19.539673699999998
+278,andrychow,Małopolskie,Andrychów,21111.0,49.8555791,19.3436756
+279,biecz,Małopolskie,Biecz,4705.0,49.730535100000004,21.249420999999998
+280,bobowa,Małopolskie,Bobowa,3086.0,49.7130028,20.9576054
+281,bochnia,Małopolskie,Bochnia,30219.0,49.969356299999994,20.430541
+282,brzesko,Małopolskie,Brzesko,17097.0,49.9678396,20.6068496
+283,brzeszcze,Małopolskie,Brzeszcze,11474.0,49.9819014,19.1528065
+284,bukowno_3971,Małopolskie,Bukowno,10411.0,50.269777600000005,19.463813100000003
+285,chelmek,Małopolskie,Chełmek,9150.0,50.1003348,19.2542585
+286,chrzanow,Małopolskie,Chrzanów,38117.0,50.141192600000004,19.4028502
+287,dobczyce,Małopolskie,Dobczyce,6469.0,49.880343200000006,20.0905415
+288,dobra,Małopolskie,Dobra,1454.0,51.9160472,18.615180600000002
+289,dobra,Małopolskie,Dobra,2347.0,53.584658999999995,15.3073048
+290,dobra,Opolskie,Dobra,1454.0,51.9160472,18.615180600000002
+291,dobra,Opolskie,Dobra,2347.0,53.584658999999995,15.3073048
+292,dobra,Zachodniopomorskie,Dobra,1454.0,51.9160472,18.615180600000002
+293,dobra,Zachodniopomorskie,Dobra,2347.0,53.584658999999995,15.3073048
+294,dabrowa-tarnowska,Małopolskie,Dąbrowa Tarnowska,11846.0,50.1743495,20.985070699999998
+295,gorlice,Małopolskie,Gorlice,28415.0,49.65829,21.1593832
+296,grojec,Małopolskie,Grójec,16197.0,51.8655126,20.8675017
+297,grojec,Mazowieckie,Grójec,16197.0,51.8655126,20.8675017
+298,grybow,Małopolskie,Grybów,6066.0,49.6250919,20.9446455
+299,jordanow,Małopolskie,Jordanów,5340.0,49.6492876,19.829953200000002
+300,kalwaria-zebrzydowska,Małopolskie,Kalwaria Zebrzydowska,4593.0,49.8669482,19.6763089
+301,krakow,Małopolskie,Kraków,762508.0,50.0619474,19.9368564
+302,krynica-zdroj,Małopolskie,Krynica-Zdrój,11165.0,49.4206138,20.959417600000002
+303,krzeszowice,Małopolskie,Krzeszowice,10268.0,50.1350246,19.632016399999998
+304,kety,Małopolskie,Kęty,19104.0,49.8817723,19.230203600000003
+305,libiaz,Małopolskie,Libiąż,17355.0,50.1030516,19.3147486
+306,limanowa,Małopolskie,Limanowa,15133.0,49.7061713,20.4217266
+307,makow-podhalanski,Małopolskie,Maków Podhalański,6037.0,49.7298971,19.6768803
+308,miechow,Małopolskie,Miechów,11832.0,50.3566016,20.0276912
+309,mszana-dolna,Małopolskie,Mszana Dolna,7941.0,49.677975599999996,20.0820073
+310,muszyna,Małopolskie,Muszyna,5069.0,49.3561684,20.8967477
+311,myslenice,Małopolskie,Myślenice,18365.0,49.834608,19.938428299999998
+312,niepolomice,Małopolskie,Niepołomice,13276.0,50.033182000000004,20.2168012
+313,nowy-sacz,Małopolskie,Nowy Sącz,83943.0,49.62491729999999,20.691346
+314,nowy-targ,Małopolskie,Nowy Targ,33672.0,49.4818229,20.030541
+315,nowy-wisnicz,Małopolskie,Nowy Wiśnicz,2757.0,49.915266700000004,20.4621677
+316,olkusz,Małopolskie,Olkusz,36724.0,50.2788158,19.5596307
+317,osiek,Małopolskie,Osiek,1993.0,50.5194515,21.442561899999998
+318,osiek,Świętokrzyskie,Osiek,1993.0,50.5194515,21.442561899999998
+319,osiek,Świętokrzyskie,Osiek,1993.0,50.5194515,21.442561899999998
+320,oswiecim,Małopolskie,Oświęcim,39664.0,50.038244299999995,19.2214053
+321,proszowice,Małopolskie,Proszowice,6184.0,50.1926479,20.2917555
+322,rabka-zdroj,Małopolskie,Rabka-Zdrój,13154.0,49.60766629999999,19.9622575
+323,radlow,Małopolskie,Radłów,2771.0,50.083088700000005,20.8476617
+324,radlow,Opolskie,Radłów,2771.0,50.083088700000005,20.8476617
+325,skawina,Małopolskie,Skawina,24260.0,49.974750799999995,19.8265702
+326,skala,Małopolskie,Skała,3762.0,50.230376899999996,19.853537
+327,stary-sacz,Małopolskie,Stary Sącz,9107.0,49.5640268,20.6366235
+328,sucha-beskidzka,Małopolskie,Sucha Beskidzka,9485.0,49.740790000000004,19.5905975
+329,sulkowice,Małopolskie,Sułkowice,6520.0,49.8408265,19.801213699999998
+330,szczucin,Małopolskie,Szczucin,4145.0,50.3090256,21.075160999999998
+331,slomniki,Małopolskie,Słomniki,4423.0,50.2403739,20.081136899999997
+332,tarnow,Małopolskie,Tarnów,112120.0,50.012378399999996,20.988073899999996
+333,trzebinia,Małopolskie,Trzebinia,20302.0,50.1597686,19.470909699999996
+334,tuchow,Małopolskie,Tuchów,6720.0,49.895219,21.0538362
+335,wadowice,Małopolskie,Wadowice,19309.0,49.8834484,19.4925345
+336,wieliczka,Małopolskie,Wieliczka,21676.0,49.982377299999996,20.060211399999996
+337,wolbrom,Małopolskie,Wolbrom,8874.0,50.3848386,19.759884399999997
+338,zakliczyn,Małopolskie,Zakliczyn,1558.0,49.8564352,20.8086652
+339,zakopane,Małopolskie,Zakopane,27442.0,49.296944599999996,19.950658999999998
+340,zator,Małopolskie,Zator,3683.0,49.996305299999996,19.4376782
+341,swiatniki-gorne,Małopolskie,Świątniki Górne,2394.0,49.934636499999996,19.9524965
+342,zabno,Małopolskie,Żabno,4223.0,50.1335155,20.885925699999998
+343,bialobrzegi,Mazowieckie,Białobrzegi,7132.0,51.6482305,20.949745800000002
+344,bialobrzegi,Podkarpackie,Białobrzegi,7132.0,51.6482305,20.949745800000002
+345,brwinow,Mazowieckie,Brwinów,13090.0,52.1425551,20.7170701
+346,blonie,Mazowieckie,Błonie,12570.0,52.1946065,20.6169694
+347,ciechanow,Mazowieckie,Ciechanów,44797.0,52.881979799999996,20.619147899999998
+348,garwolin,Mazowieckie,Garwolin,17060.0,51.8973315,21.6149645
+349,gostynin,Mazowieckie,Gostynin,19092.0,52.428760700000005,19.4612956
+350,grodzisk-mazowiecki,Mazowieckie,Grodzisk Mazowiecki,29907.0,52.1066223,20.631344100000003
+351,gora-kalwaria,Mazowieckie,Góra Kalwaria,11454.0,51.9843765,21.214022600000003
+352,halinow,Mazowieckie,Halinów,3707.0,52.225857500000004,21.3529522
+353,ilza,Mazowieckie,Iłża,5054.0,51.1624174,21.2374622
+354,karczew,Mazowieckie,Karczew,10160.0,52.0782795,21.2508068
+355,kobylka,Mazowieckie,Kobyłka,20855.0,52.338708600000004,21.1965315
+356,konstancin-jeziorna,Mazowieckie,Konstancin-Jeziorna,17566.0,52.0834787,21.1208073
+357,kozienice,Mazowieckie,Kozienice,18277.0,51.584967799999994,21.549882999999998
+358,legionowo,Mazowieckie,Legionowo,54231.0,52.395228499999995,20.930830899999997
+359,lipsko,Mazowieckie,Lipsko,5816.0,51.158513,21.6490099
+360,makow-mazowiecki,Mazowieckie,Maków Mazowiecki,10118.0,52.865678,21.101224
+361,marki,Mazowieckie,Marki,29032.0,52.325461100000005,21.1054691
+362,milanowek,Mazowieckie,Milanówek,16410.0,52.1266493,20.6641191
+363,minsk-mazowiecki,Mazowieckie,Mińsk Mazowiecki,39880.0,52.181149600000005,21.5585859
+364,mszczonow,Mazowieckie,Mszczonów,6460.0,51.9740309,20.5126683
+365,mlawa,Mazowieckie,Mława,30880.0,53.1116182,20.383173199999998
+366,nasielsk,Mazowieckie,Nasielsk,7222.0,52.586753099999996,20.813011499999998
+367,nowy-dwor-mazowiecki,Mazowieckie,Nowy Dwór Mazowiecki,28287.0,52.43065079999999,20.7154712
+368,ostroleka,Mazowieckie,Ostrołęka,52917.0,53.0843135,21.5668607
+369,ostrow-mazowiecka,Mazowieckie,Ostrów Mazowiecka,22796.0,52.8000429,21.897638
+370,otwock,Mazowieckie,Otwock,45044.0,52.104119700000005,21.2681092
+371,ozarow-mazowiecki,Mazowieckie,Ożarów Mazowiecki,10735.0,52.20805479999999,20.7941606
+372,piaseczno,Mazowieckie,Piaseczno,44880.0,52.07473770000001,21.0270885
+373,piastow,Mazowieckie,Piastów,22907.0,52.181255900000004,20.8415937
+374,pionki,Mazowieckie,Pionki,19382.0,51.4730031,21.4438404
+375,pruszkow,Mazowieckie,Pruszków,59570.0,52.1626141,20.808019899999998
+376,przasnysz,Mazowieckie,Przasnysz,17326.0,53.019021900000006,20.880402800000002
+377,przysucha,Mazowieckie,Przysucha,6008.0,51.35850429999999,20.6285468
+378,pultusk,Mazowieckie,Pułtusk,19240.0,52.705110899999994,21.084027399999997
+379,plock,Mazowieckie,Płock,122815.0,52.5464521,19.700860600000002
+380,plonsk,Mazowieckie,Płońsk,22494.0,52.62266170000001,20.370509100000003
+381,radom,Mazowieckie,Radom,218466.0,51.402255700000005,21.154154600000002
+382,radzymin,Mazowieckie,Radzymin,11378.0,52.4176347,21.1807836
+383,serock,Mazowieckie,Serock,4130.0,52.5135193,21.073116199999998
+384,siedlce,Mazowieckie,Siedlce,77102.0,52.166375099999996,22.2765138
+385,sierpc,Mazowieckie,Sierpc,18742.0,52.852905500000006,19.667543300000002
+386,sochaczew,Mazowieckie,Sochaczew,37480.0,52.2296562,20.2379379
+387,sokolow-podlaski,Mazowieckie,Sokołów Podlaski,18781.0,52.4081717,22.2525679
+388,sulejowek,Mazowieckie,Sulejówek,19311.0,52.246799200000005,21.282523
+389,szydlowiec,Mazowieckie,Szydłowiec,11907.0,51.2238922,20.8575141
+390,tarczyn,Mazowieckie,Tarczyn,3869.0,51.9802935,20.833961300000002
+391,tluszcz,Mazowieckie,Tłuszcz,8056.0,52.43016970000001,21.4355074
+392,warka,Mazowieckie,Warka,11727.0,51.7850969,21.183383499999998
+393,warszawa,Mazowieckie,Warszawa,1744351.0,52.2319581,21.0067249
+394,wolomin,Mazowieckie,Wołomin,37298.0,52.346868900000004,21.242017899999997
+395,wyszkow,Mazowieckie,Wyszków,27222.0,52.5928035,21.4584581
+396,wegrow,Mazowieckie,Węgrów,12796.0,52.398923100000005,22.0174472
+397,zakroczym,Mazowieckie,Zakroczym,3241.0,52.4333534,20.6116771
+398,zwolen,Mazowieckie,Zwoleń,8112.0,51.3564745,21.5844652
+399,zabki,Mazowieckie,Ząbki,31884.0,52.2934961,21.1157408
+400,laskarzew,Mazowieckie,Łaskarzew,4893.0,51.7889644,21.5921883
+401,lochow,Mazowieckie,Łochów,6842.0,52.53041999999999,21.68528
+402,lomianki,Mazowieckie,Łomianki,16639.0,52.335527299999995,20.895012
+403,losice,Mazowieckie,Łosice,7085.0,52.211513399999994,22.717294
+404,zuromin,Mazowieckie,Żuromin,8987.0,53.0671703,19.9078353
+405,zyrardow,Mazowieckie,Żyrardów,41096.0,52.054330799999995,20.4435009
+406,brzeg,Opolskie,Brzeg,36980.0,50.861488200000004,17.470497
+407,byczyna,Opolskie,Byczyna,3714.0,51.1142355,18.2143288
+408,dobrodzien,Opolskie,Dobrodzień,3752.0,50.7288597,18.444336
+409,gogolin,Opolskie,Gogolin,6565.0,50.492510700000004,18.017619699999997
+410,gorzow-slaski,Opolskie,Gorzów Śląski,2532.0,51.028155100000006,18.4222682
+411,grodkow_133901,Opolskie,Grodków,8746.0,50.698157,17.384980399999996
+412,glogowek,Opolskie,Głogówek,5755.0,50.353437299999996,17.8619329
+413,glubczyce,Opolskie,Głubczyce,12888.0,50.2000941,17.829319899999998
+414,glucholazy,Opolskie,Głuchołazy,14257.0,50.3170828,17.3833809
+415,kietrz,Opolskie,Kietrz,6267.0,50.0796271,18.0021082
+416,kluczbork,Opolskie,Kluczbork,24544.0,50.9730701,18.214008899999996
+417,kolonowskie,Opolskie,Kolonowskie,3343.0,50.652857399999995,18.383107100000004
+418,korfantow,Opolskie,Korfantów,1855.0,50.4879782,17.598418399999996
+419,krapkowice,Opolskie,Krapkowice,16721.0,50.47474129999999,17.9675262
+420,kedzierzyn-kozle,Opolskie,Kędzierzyn-Koźle,63194.0,50.3448836,18.210959399999997
+421,lewin-brzeski,Opolskie,Lewin Brzeski,6007.0,50.7495823,17.6188526
+422,lesnica,Opolskie,Leśnica,2672.0,50.4285562,18.184992899999997
+423,namyslow,Opolskie,Namysłów,16123.0,51.076625799999995,17.718561899999997
+424,niemodlin,Opolskie,Niemodlin,6623.0,50.6415925,17.6211388
+425,nysa,Opolskie,Nysa,44899.0,50.473802899999995,17.3324733
+426,olesno,Opolskie,Olesno,9597.0,50.8766575,18.4219452
+427,opole,Opolskie,Opole,120146.0,50.666818400000004,17.9236408
+428,otmuchow,Opolskie,Otmuchów,5068.0,50.465351,17.1730499
+429,ozimek,Opolskie,Ozimek,8959.0,50.6789196,18.212522699999997
+430,paczkow,Opolskie,Paczków,7464.0,50.4636773,17.005768300000003
+431,praszka,Opolskie,Praszka,7944.0,51.05536,18.4485221
+432,prudnik,Opolskie,Prudnik,21778.0,50.321721200000006,17.580104100000003
+433,proszkow_14379,Opolskie,Prószków,2684.0,50.5786696,17.8699852
+434,strzelce-opolskie,Opolskie,Strzelce Opolskie,18451.0,50.5109033,18.3004547
+435,tulowice,Opolskie,Tułowice,4290.0,50.5954195,17.6533063
+436,wolczyn,Opolskie,Wołczyn,5986.0,51.019025299999996,18.049603
+437,zawadzkie,Opolskie,Zawadzkie,7605.0,50.6065834,18.480128399999998
+438,zdzieszowice,Opolskie,Zdzieszowice,11978.0,50.4202928,18.1193187
+439,boguchwala,Podkarpackie,Boguchwała,6030.0,49.9806882,21.939182199999998
+440,brzostek,Podkarpackie,Brzostek,2597.0,49.878469700000004,21.411865
+441,brzozow,Podkarpackie,Brzozów,7836.0,49.6950395,22.0196537
+442,blazowa,Podkarpackie,Błażowa,2176.0,49.88560220000001,22.1008013
+443,dukla,Podkarpackie,Dukla,2160.0,49.55636,21.684752300000003
+444,dynow,Podkarpackie,Dynów,6164.0,49.8134771,22.2338151
+445,debica,Podkarpackie,Dębica,46854.0,50.0514601,21.410480399999997
+446,glogow-malopolski,Podkarpackie,Głogów Małopolski,6117.0,50.1511809,21.9627571
+447,jaroslaw,Podkarpackie,Jarosław,39146.0,50.0159029,22.6796573
+448,jaslo,Podkarpackie,Jasło,36363.0,49.7470465,21.4743139
+449,jedlicze,Podkarpackie,Jedlicze,5770.0,49.714148,21.642151300000002
+450,kanczuga,Podkarpackie,Kańczuga,3222.0,49.9843732,22.413183800000002
+451,kolbuszowa,Podkarpackie,Kolbuszowa,9329.0,50.2433277,21.7754563
+452,krosno,Podkarpackie,Krosno,46600.0,49.6938045,21.765145800000003
+453,lesko,Podkarpackie,Lesko,5432.0,49.4689014,22.330381600000003
+454,lezajsk,Podkarpackie,Leżajsk,14363.0,50.262168700000004,22.418892
+455,lubaczow,Podkarpackie,Lubaczów,12517.0,50.1574473,23.1225859
+456,mielec,Podkarpackie,Mielec,61096.0,50.2892506,21.4243685
+457,nisko,Podkarpackie,Nisko,15484.0,50.5198985,22.139885999999997
+458,nowa-deba,Podkarpackie,Nowa Dęba,11507.0,50.4132684,21.749056
+459,nowa-sarzyna,Podkarpackie,Nowa Sarzyna,6177.0,50.3198578,22.3433771
+460,pilzno,Podkarpackie,Pilzno,4792.0,49.978578000000006,21.2908438
+461,pruchnik,Podkarpackie,Pruchnik,3757.0,49.906135799999994,22.5160585
+462,przemysl,Podkarpackie,Przemyśl,62720.0,49.7821562,22.7692634
+463,przeworsk,Podkarpackie,Przeworsk,15779.0,50.0601735,22.492376899999996
+464,radomysl-wielki,Podkarpackie,Radomyśl Wielki,3141.0,50.1963674,21.276159600000003
+465,radymno,Podkarpackie,Radymno,5354.0,49.9517176,22.8183129
+466,ropczyce,Podkarpackie,Ropczyce,15683.0,50.0528608,21.611632399999998
+467,rudnik-nad-sanem,Podkarpackie,Rudnik nad Sanem,6858.0,50.4447917,22.2438721
+468,rymanow,Podkarpackie,Rymanów,3769.0,49.576131,21.8676433
+469,rzeszow,Podkarpackie,Rzeszów,187422.0,50.0374531,22.0047174
+470,sanok,Podkarpackie,Sanok,39027.0,49.560905299999995,22.207028
+471,sieniawa,Podkarpackie,Sieniawa,2161.0,50.178072799999995,22.6102155
+472,sokolow-malopolski,Podkarpackie,Sokołów Małopolski,4040.0,50.231164299999996,22.118927199999998
+473,stalowa-wola,Podkarpackie,Stalowa Wola,63291.0,50.565310499999995,22.0644075
+474,strzyzow,Podkarpackie,Strzyżów,8967.0,49.870208700000006,21.7856291
+475,sedziszow-malopolski,Podkarpackie,Sędziszów Małopolski,7492.0,50.071599600000006,21.7007524
+476,tarnobrzeg,Podkarpackie,Tarnobrzeg,48217.0,50.5715277,21.670487100000003
+477,tyczyn,Podkarpackie,Tyczyn,3641.0,49.9637919,22.033671899999998
+478,ustrzyki-dolne,Podkarpackie,Ustrzyki Dolne,9041.0,49.4301874,22.587700299999998
+479,zagorz,Podkarpackie,Zagórz,5082.0,49.50988220000001,22.263289399999998
+480,zaklikow,Podkarpackie,Zaklików,3041.0,50.7554368,22.102021399999998
+481,lancut,Podkarpackie,Łańcut,18074.0,50.0690725,22.2320924
+482,augustow,Podlaskie,Augustów,30610.0,53.8437331,22.980235699999998
+483,bialystok,Podlaskie,Białystok,295459.0,53.132397999999995,23.159167899999996
+484,bielsk-podlaski,Podlaskie,Bielsk Podlaski,26336.0,52.768755500000005,23.1925618
+485,bransk,Podlaskie,Brańsk,3800.0,52.7454145,22.8328169
+486,choroszcz,Podlaskie,Choroszcz,5818.0,53.143925,22.9884588
+487,ciechanowiec,Podlaskie,Ciechanowiec,4753.0,52.67879670000001,22.4991103
+488,czarna-bialostocka,Podlaskie,Czarna Białostocka,9671.0,53.2982835,23.2851013
+489,czyzew,Podlaskie,Czyżew,2639.0,52.7975512,22.3123475
+490,drohiczyn,Podlaskie,Drohiczyn,2055.0,52.396648,22.658812
+491,dabrowa-bialostocka,Podlaskie,Dąbrowa Białostocka,5874.0,53.654439,23.3485102
+492,goniadz,Podlaskie,Goniądz,1900.0,53.489222,22.732372100000003
+493,grajewo,Podlaskie,Grajewo,22246.0,53.646984200000006,22.4548627
+494,hajnowka,Podlaskie,Hajnówka,21559.0,52.739654099999996,23.581786899999997
+495,jedwabne,Podlaskie,Jedwabne,1717.0,53.286730799999994,22.3021413
+496,knyszyn,Podlaskie,Knyszyn,2850.0,53.3122442,22.9200387
+497,kolno,Podlaskie,Kolno,10579.0,53.41093829999999,21.9312439
+498,lipsk,Podlaskie,Lipsk,2411.0,53.7335414,23.403739399999996
+499,michalowo,Podlaskie,Michałowo,3177.0,53.0328933,23.6066858
+500,monki,Podlaskie,Mońki,10352.0,53.406573800000004,22.7983772
+501,nowogrod,Podlaskie,Nowogród,2197.0,53.2280804,21.8797908
+502,rajgrod,Podlaskie,Rajgród,1626.0,53.73047389999999,22.6976173
+503,sejny,Podlaskie,Sejny,5650.0,54.105725,23.3496591
+504,siemiatycze,Podlaskie,Siemiatycze,14652.0,52.4278979,22.8627258
+505,sokolka,Podlaskie,Sokółka,18765.0,53.4049183,23.4995562
+506,stawiski,Podlaskie,Stawiski,2379.0,53.3798382,22.1548937
+507,suchowola,Podlaskie,Suchowola,2274.0,53.578556999999996,23.105822399999997
+508,suprasl,Podlaskie,Supraśl,4679.0,53.2100391,23.3360728
+509,suraz,Podlaskie,Suraż,1008.0,52.949166500000004,22.956383600000002
+510,suwalki,Podlaskie,Suwałki,69317.0,54.09906360000001,22.927936300000002
+511,szczuczyn,Podlaskie,Szczuczyn,3442.0,53.56299820000001,22.2855495
+512,szepietowo,Podlaskie,Szepietowo,2412.0,52.871298200000005,22.5474331
+513,tykocin,Podlaskie,Tykocin,1906.0,53.207646,22.7730188
+514,wasilkow,Podlaskie,Wasilków,10511.0,53.198684,23.2056777
+515,wysokie-mazowieckie,Podlaskie,Wysokie Mazowieckie,9503.0,52.9154988,22.5131199
+516,zabludow,Podlaskie,Zabłudów,2495.0,53.0147671,23.3379526
+517,zambrow,Podlaskie,Zambrów,22451.0,52.985519999999994,22.24117
+518,lapy,Podlaskie,Łapy,15786.0,52.9908208,22.883004999999997
+519,lomza,Podlaskie,Łomża,63004.0,53.175069900000004,22.072755100000002
+520,brusy,Pomorskie,Brusy,5037.0,53.8861557,17.7190437
+521,bytow,Pomorskie,Bytów,16842.0,54.16885500000001,17.492295300000002
+522,chojnice,Pomorskie,Chojnice,40226.0,53.6952912,17.5614973
+523,czarna-woda,Pomorskie,Czarna Woda,3223.0,53.8441983,18.0984293
+524,czarne,Pomorskie,Czarne,6089.0,53.683530000000005,16.94221
+525,czersk,Pomorskie,Czersk,10008.0,53.796195999999995,17.9756228
+526,czluchow,Pomorskie,Człuchów,14385.0,53.6651462,17.3588324
+527,debrzno,Pomorskie,Debrzno,5232.0,53.53861,17.2338685
+528,gdansk,Pomorskie,Gdańsk,461935.0,54.348290799999994,18.654023100000003
+529,gdynia,Pomorskie,Gdynia,248042.0,54.51649820000001,18.5402738
+530,gniew,Pomorskie,Gniew,6868.0,53.834222100000005,18.825159600000003
+531,kartuzy,Pomorskie,Kartuzy,14866.0,54.3342281,18.1973639
+532,koscierzyna,Pomorskie,Kościerzyna,23701.0,54.1210215,17.9781656
+533,kwidzyn,Pomorskie,Kwidzyn,38867.0,53.7335842,18.9319222
+534,lubowidz,Pomorskie,Lubowidz,2000.0,53.1216748,19.8407986
+535,lebork,Pomorskie,Lębork,33967.0,54.53915010000001,17.7472272
+536,malbork,Pomorskie,Malbork,39022.0,54.0359361,19.0348817
+537,miastko,Pomorskie,Miastko,10926.0,54.0001478,16.9774717
+538,nowy-dwor-gdanski,Pomorskie,Nowy Dwór Gdański,10083.0,54.2146299,19.115084600000003
+539,nowy-staw,Pomorskie,Nowy Staw,4335.0,54.13427539999999,19.008686100000002
+540,pelplin,Pomorskie,Pelplin,8254.0,53.927835200000004,18.6985388
+541,prabuty,Pomorskie,Prabuty,8802.0,53.755995,19.2044449
+542,pruszcz-gdanski,Pomorskie,Pruszcz Gdański,28858.0,54.2608539,18.6461908
+543,puck,Pomorskie,Puck,11396.0,54.7203995,18.411338
+544,reda,Pomorskie,Reda,23135.0,54.6043272,18.350519100000003
+545,rumia,Pomorskie,Rumia,47374.0,54.570014799999996,18.3969008
+546,skarszewy,Pomorskie,Skarszewy,7082.0,54.07175229999999,18.4459951
+547,sopot,Pomorskie,Sopot,37903.0,54.4447922,18.5684902
+548,starogard-gdanski,Pomorskie,Starogard Gdański,48621.0,53.967180500000005,18.532113
+549,sztum,Pomorskie,Sztum,10332.0,53.919866299999995,19.030538399999998
+550,slupsk,Pomorskie,Słupsk,93936.0,54.4649331,17.028073000000003
+551,tczew,Pomorskie,Tczew,60610.0,54.0869532,18.800029300000002
+552,ustka,Pomorskie,Ustka,16263.0,54.5811254,16.861296199999998
+553,wejherowo,Pomorskie,Wejherowo,50340.0,54.6026348,18.247934
+554,wladyslawowo,Pomorskie,Władysławowo,15400.0,54.7901316,18.4087342
+555,leba,Pomorskie,Łeba,3824.0,54.758520700000005,17.555417000000002
+556,zukowo,Pomorskie,Żukowo,6521.0,54.3458564,18.3650087
+557,bielsko-biala,Śląskie,Bielsko-Biała,173699.0,49.822117999999996,19.0448936
+558,bierun,Śląskie,Bieruń,19696.0,50.093192200000004,19.0918262
+559,blachownia,Śląskie,Blachownia,9865.0,50.7820239,18.968425500000002
+560,bytom,Śląskie,Bytom,173439.0,50.347038700000006,18.923185699999998
+561,bedzin,Śląskie,Będzin,58425.0,50.323078499999994,19.1322201
+562,chorzow,Śląskie,Chorzów,110761.0,50.2978791,18.9544466
+563,cieszyn,Śląskie,Cieszyn,35918.0,49.7488623,18.633430800000003
+564,czechowice-dziedzice,Śląskie,Czechowice-Dziedzice,35684.0,49.9112146,19.007564000000002
+565,czeladz,Śląskie,Czeladź,32940.0,50.3184581,19.0736572
+566,czerwionka-leszczyny,Śląskie,Czerwionka-Leszczyny,28301.0,50.1449958,18.6531994
+567,czestochowa,Śląskie,Częstochowa,232318.0,50.8120466,19.113213000000002
+568,dabrowa-gornicza,Śląskie,Dąbrowa Górnicza,123994.0,50.3308692,19.2078918
+569,gliwice,Śląskie,Gliwice,185450.0,50.294113,18.6657306
+570,imielin,Śląskie,Imielin,8621.0,50.1454718,19.185758899999996
+571,jastrzebie-zdroj,Śląskie,Jastrzębie-Zdrój,91235.0,49.9519085,18.602361399999996
+572,jaworzno,Śląskie,Jaworzno,93708.0,50.203439,19.272155899999998
+573,kalety,Śląskie,Kalety,8681.0,50.5636291,18.885745999999997
+574,katowice,Śląskie,Katowice,304362.0,50.2598987,19.021585199999997
+575,knurow,Śląskie,Knurów,39090.0,50.2216536,18.6706574
+576,koniecpol,Śląskie,Koniecpol,6165.0,50.772529399999996,19.6769723
+577,kozieglowy,Śląskie,Koziegłowy,2480.0,50.5978504,19.1615184
+578,kozieglowy,Wielkopolskie,Koziegłowy,2480.0,50.5978504,19.1615184
+579,krzepice,Śląskie,Krzepice,4475.0,50.9693977,18.7264242
+580,klobuck,Śląskie,Kłobuck,13246.0,50.9024828,18.937131899999997
+581,lubliniec,Śląskie,Lubliniec,24316.0,50.669016,18.6825574
+582,ledziny,Śląskie,Lędziny,16665.0,50.1379295,19.1315264
+583,miasteczko-slaskie,Śląskie,Miasteczko Śląskie,7379.0,50.4915736,18.9230247
+584,mikolow,Śląskie,Mikołów,39776.0,50.169181200000004,18.9044238
+585,myszkow,Śląskie,Myszków,32619.0,50.5736481,19.3219413
+586,myslowice,Śląskie,Mysłowice,75037.0,50.2414715,19.141452800000003
+587,ogrodzieniec,Śląskie,Ogrodzieniec,4379.0,50.452146299999995,19.5213629
+588,orzesze,Śląskie,Orzesze,20451.0,50.1439,18.774620000000002
+589,piekary-slaskie,Śląskie,Piekary Śląskie,57148.0,50.3840312,18.945642899999996
+590,poreba,Śląskie,Poręba,8747.0,50.4875787,19.337879
+591,pszczyna,Śląskie,Pszczyna,25990.0,49.977832799999995,18.9425124
+592,pszow,Śląskie,Pszów,14252.0,50.0395806,18.394941199999998
+593,pyskowice,Śląskie,Pyskowice,18642.0,50.3980823,18.6277201
+594,raciborz,Śląskie,Racibórz,55930.0,50.0917343,18.2196766
+595,radlin,Śląskie,Radlin,17984.0,50.0486957,18.4791456
+596,radlin,Świętokrzyskie,Radlin,17984.0,50.0486957,18.4791456
+597,radlin,Świętokrzyskie,Radlin,17984.0,50.0486957,18.4791456
+598,radzionkow,Śląskie,Radzionków,17025.0,50.4002717,18.9026247
+599,ruda-slaska,Śląskie,Ruda Śląska,137030.0,50.285800099999996,18.8747933
+600,rybnik,Śląskie,Rybnik,140173.0,50.0955793,18.5419933
+601,rydultowy,Śląskie,Rydułtowy,21847.0,50.058436,18.4171831
+602,siemianowice-slaskie,Śląskie,Siemianowice Śląskie,68844.0,50.3052029,19.0275635
+603,siewierz,Śląskie,Siewierz,5481.0,50.4710097,19.2318901
+604,skoczow,Śląskie,Skoczów,14741.0,49.7999039,18.7877583
+605,sosnowiec,Śląskie,Sosnowiec,211275.0,50.2780834,19.134294399999998
+606,szczekociny,Śląskie,Szczekociny,3745.0,50.6259216,19.8194681
+607,szczyrk,Śląskie,Szczyrk,5750.0,49.7165976,19.0254613
+608,slawkow,Śląskie,Sławków,7092.0,50.2984547,19.389847500000002
+609,tarnowskie-gory,Śląskie,Tarnowskie Góry,60957.0,50.4445194,18.8554757
+610,tychy,Śląskie,Tychy,128812.0,50.114397,18.9965933
+611,ustron,Śląskie,Ustroń,16003.0,49.7181505,18.802833800000002
+612,wisla,Śląskie,Wisła,11333.0,49.65236470000001,18.870925600000003
+613,wodzislaw-slaski,Śląskie,Wodzisław Śląski,48731.0,50.0024107,18.4630383
+614,wojkowice,Śląskie,Wojkowice,9311.0,50.3652915,19.0366218
+615,wozniki,Śląskie,Woźniki,4395.0,50.58757,19.05677
+616,zabrze,Śląskie,Zabrze,178357.0,50.3086154,18.7863749
+617,zawiercie,Śląskie,Zawiercie,51258.0,50.4844179,19.4333887
+618,laziska-gorne,Śląskie,Łaziska Górne,22418.0,50.150089200000004,18.839066100000004
+619,lazy,Śląskie,Łazy,6965.0,50.4276105,19.3948494
+620,swietochlowice,Śląskie,Świętochłowice,51824.0,50.2854551,18.9308513
+621,zarki,Śląskie,Żarki,4486.0,50.6259563,19.3645599
+622,zory,Śląskie,Żory,62022.0,50.0454961,18.6943479
+623,zywiec,Śląskie,Żywiec,32083.0,49.6890338,19.20305
+624,bodzentyn,Świętokrzyskie,Bodzentyn,2274.0,50.9409927,20.9573478
+625,bodzentyn,Świętokrzyskie,Bodzentyn,2274.0,50.9409927,20.9573478
+626,busko-zdroj,Świętokrzyskie,Busko-Zdrój,16694.0,50.46759,20.71919
+627,busko-zdroj,Świętokrzyskie,Busko-Zdrój,16694.0,50.46759,20.71919
+628,chmielnik,Świętokrzyskie,Chmielnik,3834.0,50.614595200000004,20.751040600000003
+629,chmielnik,Świętokrzyskie,Chmielnik,3834.0,50.614595200000004,20.751040600000003
+630,checiny,Świętokrzyskie,Chęciny,4438.0,50.8000835,20.4622228
+631,checiny,Świętokrzyskie,Chęciny,4438.0,50.8000835,20.4622228
+632,daleszyce,Świętokrzyskie,Daleszyce,2932.0,50.801990999999994,20.8066334
+633,daleszyce,Świętokrzyskie,Daleszyce,2932.0,50.801990999999994,20.8066334
+634,dzialoszyce,Świętokrzyskie,Działoszyce,981.0,50.3654682,20.352147100000003
+635,dzialoszyce,Świętokrzyskie,Działoszyce,981.0,50.3654682,20.352147100000003
+636,jedrzejow,Świętokrzyskie,Jędrzejów,15471.0,50.6394435,20.3046116
+637,jedrzejow,Świętokrzyskie,Jędrzejów,15471.0,50.6394435,20.3046116
+638,kazimierza-wielka,Świętokrzyskie,Kazimierza Wielka,5748.0,50.267489000000005,20.485330800000003
+639,kazimierza-wielka,Świętokrzyskie,Kazimierza Wielka,5748.0,50.267489000000005,20.485330800000003
+640,kielce,Świętokrzyskie,Kielce,187374.0,50.8719903,20.631048800000002
+641,kielce,Świętokrzyskie,Kielce,187374.0,50.8719903,20.631048800000002
+642,klimontow,Świętokrzyskie,Klimontów,2000.0,50.6563871,21.450618600000002
+643,klimontow,Świętokrzyskie,Klimontów,2000.0,50.6563871,21.450618600000002
+644,koprzywnica,Świętokrzyskie,Koprzywnica,2575.0,50.5932218,21.5847266
+645,koprzywnica,Świętokrzyskie,Koprzywnica,2575.0,50.5932218,21.5847266
+646,konskie,Świętokrzyskie,Końskie,20281.0,51.1910223,20.4071836
+647,konskie,Świętokrzyskie,Końskie,20281.0,51.1910223,20.4071836
+648,kunow,Świętokrzyskie,Kunów,3098.0,50.9541063,21.278823000000003
+649,kunow,Świętokrzyskie,Kunów,3098.0,50.9541063,21.278823000000003
+650,malogoszcz,Świętokrzyskie,Małogoszcz,3929.0,50.8123487,20.2648324
+651,malogoszcz,Świętokrzyskie,Małogoszcz,3929.0,50.8123487,20.2648324
+652,morawica,Świętokrzyskie,Morawica,1576.0,50.747814899999995,20.618051899999998
+653,morawica,Świętokrzyskie,Morawica,1576.0,50.747814899999995,20.618051899999998
+654,nowa-slupia,Świętokrzyskie,Nowa Słupia,1600.0,50.864037700000004,21.0907296
+655,nowa-slupia,Świętokrzyskie,Nowa Słupia,1600.0,50.864037700000004,21.0907296
+656,nowy-korczyn,Świętokrzyskie,Nowy Korczyn,1032.0,50.2994316,20.809056899999998
+657,nowy-korczyn,Świętokrzyskie,Nowy Korczyn,1032.0,50.2994316,20.809056899999998
+658,opatow,Świętokrzyskie,Opatów,6767.0,50.8017661,21.4238281
+659,opatow,Świętokrzyskie,Opatów,6767.0,50.8017661,21.4238281
+660,ostrowiec-swietokrzyski,Świętokrzyskie,Ostrowiec Świętokrzyski,72277.0,50.9398768,21.38743
+661,ostrowiec-swietokrzyski,Świętokrzyskie,Ostrowiec Świętokrzyski,72277.0,50.9398768,21.38743
+662,ozarow,Świętokrzyskie,Ożarów,4730.0,50.8864089,21.6656244
+663,ozarow,Świętokrzyskie,Ożarów,4730.0,50.8864089,21.6656244
+664,pacanow,Świętokrzyskie,Pacanów,1137.0,50.3999656,21.040985199999998
+665,pacanow,Świętokrzyskie,Pacanów,1137.0,50.3999656,21.040985199999998
+666,pierzchnica,Świętokrzyskie,Pierzchnica,870.0,50.6974266,20.7544258
+667,pierzchnica,Świętokrzyskie,Pierzchnica,870.0,50.6974266,20.7544258
+668,pinczow,Świętokrzyskie,Pińczów,11306.0,50.5201929,20.5256241
+669,pinczow,Świętokrzyskie,Pińczów,11306.0,50.5201929,20.5256241
+670,polaniec,Świętokrzyskie,Połaniec,8347.0,50.4329071,21.2810473
+671,polaniec,Świętokrzyskie,Połaniec,8347.0,50.4329071,21.2810473
+672,radoszyce,Świętokrzyskie,Radoszyce,3400.0,51.0736699,20.2597677
+673,radoszyce,Świętokrzyskie,Radoszyce,3400.0,51.0736699,20.2597677
+674,sandomierz,Świętokrzyskie,Sandomierz,24552.0,50.6793066,21.749505499999998
+675,sandomierz,Świętokrzyskie,Sandomierz,24552.0,50.6793066,21.749505499999998
+676,skalbmierz,Świętokrzyskie,Skalbmierz,1315.0,50.3170888,20.3996843
+677,skalbmierz,Świętokrzyskie,Skalbmierz,1315.0,50.3170888,20.3996843
+678,skarzysko-kamienna,Świętokrzyskie,Skarżysko-Kamienna,47538.0,51.1138821,20.857882999999998
+679,skarzysko-kamienna,Świętokrzyskie,Skarżysko-Kamienna,47538.0,51.1138821,20.857882999999998
+680,starachowice,Świętokrzyskie,Starachowice,51158.0,51.0518865,21.076137699999997
+681,starachowice,Świętokrzyskie,Starachowice,51158.0,51.0518865,21.076137699999997
+682,staszow,Świętokrzyskie,Staszów,15384.0,50.5612276,21.167784899999997
+683,staszow,Świętokrzyskie,Staszów,15384.0,50.5612276,21.167784899999997
+684,stopnica,Świętokrzyskie,Stopnica,1500.0,50.438258700000006,20.9385676
+685,stopnica,Świętokrzyskie,Stopnica,1500.0,50.438258700000006,20.9385676
+686,staporkow,Świętokrzyskie,Stąporków,5996.0,51.138014500000004,20.5573073
+687,staporkow,Świętokrzyskie,Stąporków,5996.0,51.138014500000004,20.5573073
+688,suchedniow,Świętokrzyskie,Suchedniów,8714.0,51.0472338,20.8386652
+689,suchedniow,Świętokrzyskie,Suchedniów,8714.0,51.0472338,20.8386652
+690,sedziszow,Świętokrzyskie,Sędziszów,6707.0,50.564780999999996,20.0538047
+691,sedziszow,Świętokrzyskie,Sędziszów,6707.0,50.564780999999996,20.0538047
+692,wislica,Świętokrzyskie,Wiślica,680.0,50.3484831,20.674538100000003
+693,wislica,Świętokrzyskie,Wiślica,680.0,50.3484831,20.674538100000003
+694,wodzislaw,Świętokrzyskie,Wodzisław,1153.0,50.5211403,20.1909163
+695,wodzislaw,Świętokrzyskie,Wodzisław,1153.0,50.5211403,20.1909163
+696,wachock,Świętokrzyskie,Wąchock,2865.0,51.073812,21.011689699999998
+697,wachock,Świętokrzyskie,Wąchock,2865.0,51.073812,21.011689699999998
+698,wloszczowa,Świętokrzyskie,Włoszczowa,10210.0,50.8520727,19.9667772
+699,wloszczowa,Świętokrzyskie,Włoszczowa,10210.0,50.8520727,19.9667772
+700,zawichost,Świętokrzyskie,Zawichost,1845.0,50.8074312,21.8523835
+701,zawichost,Świętokrzyskie,Zawichost,1845.0,50.8074312,21.8523835
+702,cmielow,Świętokrzyskie,Ćmielów,3157.0,50.8918364,21.5100875
+703,cmielow,Świętokrzyskie,Ćmielów,3157.0,50.8918364,21.5100875
+704,barczewo,Warmińsko-mazurskie,Barczewo,7265.0,53.829711200000006,20.6911497
+705,bartoszyce,Warmińsko-mazurskie,Bartoszyce,24552.0,54.25236949999999,20.8143766
+706,biala-piska,Warmińsko-mazurskie,Biała Piska,4125.0,53.6113625,22.0581433
+707,biskupiec,Warmińsko-mazurskie,Biskupiec,10626.0,53.8688,20.95518
+708,bisztynek,Warmińsko-mazurskie,Bisztynek,2492.0,54.0866828,20.908828
+709,braniewo,Warmińsko-mazurskie,Braniewo,17385.0,54.38248570000001,19.827558800000002
+710,dobre-miasto,Warmińsko-mazurskie,Dobre Miasto,10599.0,53.986889899999994,20.3973402
+711,dzialdowo,Warmińsko-mazurskie,Działdowo,21552.0,53.2346517,20.1817841
+712,elblag,Warmińsko-mazurskie,Elbląg,126460.0,54.155870799999995,19.4044583
+713,elk,Warmińsko-mazurskie,Ełk,60621.0,53.8248304,22.3615813
+714,gizycko,Warmińsko-mazurskie,Giżycko,29947.0,54.040092,21.7713092
+715,goldap,Warmińsko-mazurskie,Gołdap,13808.0,54.3080218,22.3018802
+716,gorowo-ilaweckie,Warmińsko-mazurskie,Górowo Iławeckie,4264.0,54.284248100000006,20.4916449
+717,ilawa,Warmińsko-mazurskie,Iława,33338.0,53.5976095,19.561217499999998
+718,jeziorany,Warmińsko-mazurskie,Jeziorany,3346.0,53.97686039999999,20.7459137
+719,kisielice,Warmińsko-mazurskie,Kisielice,2155.0,53.6076054,19.259392300000002
+720,korsze,Warmińsko-mazurskie,Korsze,4586.0,54.170761399999996,21.1442323
+721,ketrzyn,Warmińsko-mazurskie,Kętrzyn,28051.0,54.0764176,21.375262699999997
+722,lidzbark,Warmińsko-mazurskie,Lidzbark,9351.0,53.26280429999999,19.8231836
+723,lidzbark-warminski,Warmińsko-mazurskie,Lidzbark Warmiński,16352.0,54.12594059999999,20.5805641
+724,lubawa,Warmińsko-mazurskie,Lubawa,10093.0,53.50514820000001,19.7494057
+725,mikolajki,Warmińsko-mazurskie,Mikołajki,3883.0,53.7981816,21.5772462
+726,milakowo,Warmińsko-mazurskie,Miłakowo,2653.0,54.0101675,20.0711213
+727,milomlyn,Warmińsko-mazurskie,Miłomłyn,2431.0,53.7634,19.841350100000003
+728,morag,Warmińsko-mazurskie,Morąg,15458.0,53.911998200000006,19.9279895
+729,mragowo,Warmińsko-mazurskie,Mrągowo,22190.0,53.86607070000001,21.3045796
+730,mlynary,Warmińsko-mazurskie,Młynary,1831.0,54.1876231,19.7229376
+731,nidzica,Warmińsko-mazurskie,Nidzica,14300.0,53.3613838,20.427571899999997
+732,nowe-miasto-lubawskie,Warmińsko-mazurskie,Nowe Miasto Lubawskie,11241.0,53.425593299999996,19.5936277
+733,olecko,Warmińsko-mazurskie,Olecko,16533.0,54.0398024,22.4934246
+734,olsztyn,Warmińsko-mazurskie,Olsztyn,174675.0,53.7766839,20.476507
+735,olsztynek,Warmińsko-mazurskie,Olsztynek,7721.0,53.5834201,20.2816198
+736,orneta,Warmińsko-mazurskie,Orneta,9837.0,54.115553299999995,20.1303378
+737,orzysz,Warmińsko-mazurskie,Orzysz,5797.0,53.809833,21.9473601
+738,ostroda,Warmińsko-mazurskie,Ostróda,33963.0,53.702853299999994,19.962302800000003
+739,pasym,Warmińsko-mazurskie,Pasym,2536.0,53.6521615,20.791742199999998
+740,paslek,Warmińsko-mazurskie,Pasłęk,12453.0,54.0626346,19.656536499999998
+741,pieniezno,Warmińsko-mazurskie,Pieniężno,2949.0,54.2385662,20.1258163
+742,pisz,Warmińsko-mazurskie,Pisz,19530.0,53.6294943,21.809819100000002
+743,reszel,Warmińsko-mazurskie,Reszel,4817.0,54.0482576,21.1421611
+744,ruciane-nida,Warmińsko-mazurskie,Ruciane-Nida,4604.0,53.65042,21.559820000000002
+745,ryn,Warmińsko-mazurskie,Ryn,2925.0,53.9386839,21.544064300000002
+746,susz,Warmińsko-mazurskie,Susz,5717.0,53.7166619,19.3385289
+747,szczytno,Warmińsko-mazurskie,Szczytno,24489.0,53.565489,20.991589
+748,sepopol,Warmińsko-mazurskie,Sępopol,2051.0,54.264716,21.0146462
+749,tolkmicko,Warmińsko-mazurskie,Tolkmicko,2807.0,54.320231400000004,19.5269874
+750,wielbark,Warmińsko-mazurskie,Wielbark,2943.0,53.398424399999996,20.946272399999998
+751,wegorzewo,Warmińsko-mazurskie,Węgorzewo,11699.0,54.213816200000004,21.7416569
+752,zalewo_41221,Warmińsko-mazurskie,Zalewo,2163.0,53.84587679999999,19.606118
+753,bojanowo,Wielkopolskie,Bojanowo,2970.0,51.7075453,16.748130800000002
+754,buk,Wielkopolskie,Buk,6225.0,52.357408,16.5166799
+755,chodziez,Wielkopolskie,Chodzież,19399.0,52.9886824,16.915950600000002
+756,czarnkow,Wielkopolskie,Czarnków,11256.0,52.905033499999995,16.563957199999997
+757,czempin,Wielkopolskie,Czempiń,5280.0,52.1431479,16.761330800000003
+758,gniezno,Wielkopolskie,Gniezno,69883.0,52.535973600000005,17.595889
+759,golina,Wielkopolskie,Golina,4478.0,52.24276,18.09534
+760,gostyn,Wielkopolskie,Gostyń,20183.0,51.877863299999994,17.0167637
+761,grodzisk-wielkopolski,Wielkopolskie,Grodzisk Wielkopolski,14339.0,52.2263198,16.3628106
+762,jarocin,Wielkopolskie,Jarocin,26394.0,51.973899200000005,17.5011225
+763,kalisz,Wielkopolskie,Kalisz,103997.0,51.762475200000004,18.0895358
+764,konin,Wielkopolskie,Konin,77224.0,52.230193299999996,18.252111199999998
+765,kostrzyn,Wielkopolskie,Kostrzyn,9492.0,52.3983662,17.227539399999998
+766,kolo,Wielkopolskie,Koło,23026.0,52.201986600000005,18.6359912
+767,koscian,Wielkopolskie,Kościan,24011.0,52.086325,16.6449995
+768,kozmin-wielkopolski,Wielkopolskie,Koźmin Wielkopolski,6698.0,51.8256567,17.4528473
+769,krotoszyn,Wielkopolskie,Krotoszyn,29397.0,51.695926,17.4374158
+770,kornik,Wielkopolskie,Kórnik,7530.0,52.2492751,17.090124199999998
+771,kepno,Wielkopolskie,Kępno,14190.0,51.2790265,17.9866632
+772,leszno,Wielkopolskie,Leszno,64589.0,51.843649799999994,16.574414100000002
+773,lubon,Wielkopolskie,Luboń,30676.0,52.3458174,16.8784788
+774,miedzychod,Wielkopolskie,Międzychód,10805.0,52.6046468,15.8935386
+775,mosina,Wielkopolskie,Mosina,12252.0,52.245583399999994,16.847259100000002
+776,murowana-goslina,Wielkopolskie,Murowana Goślina,10386.0,52.5758465,17.009791399999997
+777,nowy-tomysl,Wielkopolskie,Nowy Tomyśl,14899.0,52.3177643,16.1291553
+778,oborniki,Wielkopolskie,Oborniki,18421.0,52.645525199999994,16.8099756
+779,opalenica,Wielkopolskie,Opalenica,9591.0,52.3088119,16.4124256
+780,ostrzeszow,Wielkopolskie,Ostrzeszów,14515.0,51.4257664,17.9331788
+781,ostrow-wielkopolski,Wielkopolskie,Ostrów Wielkopolski,72050.0,51.6495023,17.8167085
+782,pila,Wielkopolskie,Piła,74609.0,53.1511324,16.7380343
+783,pleszew,Wielkopolskie,Pleszew,17717.0,51.8960985,17.7865673
+784,pniewy,Wielkopolskie,Pniewy,7953.0,52.508962399999994,16.2566411
+785,pobiedziska,Wielkopolskie,Pobiedziska,9043.0,52.4773387,17.2870352
+786,poniec,Wielkopolskie,Poniec,2910.0,51.7650386,16.805989899999997
+787,poznan,Wielkopolskie,Poznań,548028.0,52.408266299999994,16.9335199
+788,puszczykowo,Wielkopolskie,Puszczykowo,9819.0,52.2884282,16.8596018
+789,pyzdry,Wielkopolskie,Pyzdry,3234.0,52.16943320000001,17.687134
+790,rakoniewice,Wielkopolskie,Rakoniewice,3523.0,52.1393485,16.2738532
+791,raszkow,Wielkopolskie,Raszków,2076.0,51.7182066,17.7277057
+792,rawicz,Wielkopolskie,Rawicz,20846.0,51.6101629,16.8583657
+793,sierakow,Wielkopolskie,Sieraków,6117.0,52.6517159,16.0808316
+794,skoki,Wielkopolskie,Skoki,4145.0,52.672592599999994,17.153134299999998
+795,steszew,Wielkopolskie,Stęszew,5834.0,52.2793539,16.6999331
+796,swarzedz,Wielkopolskie,Swarzędz,31084.0,52.4103728,17.0771038
+797,szamocin,Wielkopolskie,Szamocin,4343.0,53.02948570000001,17.1232969
+798,szamotuly,Wielkopolskie,Szamotuły,18799.0,52.6120328,16.5831241
+799,slupca,Wielkopolskie,Słupca,14019.0,52.2872924,17.8713612
+800,trzcianka,Wielkopolskie,Trzcianka,17301.0,53.041758200000004,16.4610993
+801,trzemeszno,Wielkopolskie,Trzemeszno,7843.0,52.5600669,17.8208936
+802,turek,Wielkopolskie,Turek,28100.0,52.01595,18.501910000000002
+803,witkowo,Wielkopolskie,Witkowo,8014.0,52.4395881,17.772513800000002
+804,wolsztyn,Wielkopolskie,Wolsztyn,13586.0,52.11725,16.1126622
+805,wronki,Wielkopolskie,Wronki,11566.0,52.7101225,16.3742272
+806,wrzesnia,Wielkopolskie,Września,29552.0,52.3250694,17.5652282
+807,wagrowiec,Wielkopolskie,Wągrowiec,25178.0,52.8071754,17.1973241
+808,zbaszyn,Wielkopolskie,Zbąszyń,7202.0,52.2501028,15.9209286
+809,zlotow,Wielkopolskie,Złotów,18593.0,53.3631938,17.034694000000002
+810,smigiel,Wielkopolskie,Śmigiel,5603.0,52.012744,16.5271118
+811,srem,Wielkopolskie,Śrem,30477.0,52.0893322,17.0156809
+812,sroda-wielkopolska,Wielkopolskie,Środa Wielkopolska,22572.0,52.2284266,17.277827
+813,barlinek,Zachodniopomorskie,Barlinek,14263.0,52.9920762,15.2166391
+814,barwice,Zachodniopomorskie,Barwice,3851.0,53.7445649,16.3549399
+815,bialogard,Zachodniopomorskie,Białogard,24722.0,54.00643670000001,15.987097400000001
+816,bialy-bor,Zachodniopomorskie,Biały Bór,2229.0,53.8987414,16.8377275
+817,bobolice,Zachodniopomorskie,Bobolice,4218.0,53.954693000000006,16.5884779
+818,borne-sulinowo,Zachodniopomorskie,Borne Sulinowo,4905.0,53.5812939,16.538117
+819,chociwel,Zachodniopomorskie,Chociwel,3206.0,53.466394900000004,15.331443599999998
+820,chojna,Zachodniopomorskie,Chojna,7344.0,52.96297929999999,14.4314113
+821,choszczno,Zachodniopomorskie,Choszczno,15716.0,53.1704801,15.416734900000002
+822,czaplinek,Zachodniopomorskie,Czaplinek,7188.0,53.560673,16.231942800000002
+823,czlopa,Zachodniopomorskie,Człopa,2342.0,53.0884595,16.120106900000003
+824,darlowo,Zachodniopomorskie,Darłowo,14229.0,54.42249,16.409329999999997
+825,dobrzany,Zachodniopomorskie,Dobrzany,2387.0,53.3582754,15.4299315
+826,drawno,Zachodniopomorskie,Drawno,2335.0,53.2189468,15.7580084
+827,drawsko-pomorskie,Zachodniopomorskie,Drawsko Pomorskie,11878.0,53.531078599999994,15.813417900000001
+828,dziwnow,Zachodniopomorskie,Dziwnów,2736.0,54.02509499999999,14.752646900000002
+829,debno,Zachodniopomorskie,Dębno,14043.0,52.739668099999996,14.7014522
+830,golczewo_133565,Zachodniopomorskie,Golczewo,2763.0,53.824108100000004,14.9773396
+831,goleniow,Zachodniopomorskie,Goleniów,22776.0,53.5656704,14.8300626
+832,goscino,Zachodniopomorskie,Gościno,2332.0,54.0515795,15.6534004
+833,gryfice,Zachodniopomorskie,Gryfice,16898.0,53.9148529,15.1987062
+834,gryfino,Zachodniopomorskie,Gryfino,21578.0,53.2535889,14.492424300000001
+835,kalisz-pomorski,Zachodniopomorskie,Kalisz Pomorski,4361.0,53.29816160000001,15.905990300000003
+836,kamien-pomorski,Zachodniopomorskie,Kamień Pomorski,9070.0,53.964836399999996,14.7734718
+837,karlino,Zachodniopomorskie,Karlino,5974.0,54.0410287,15.8793019
+838,koszalin,Zachodniopomorskie,Koszalin,109170.0,54.19092,16.17707
+839,kolobrzeg,Zachodniopomorskie,Kołobrzeg,44980.0,54.17596139999999,15.5764209
+840,lipiany,Zachodniopomorskie,Lipiany,4085.0,53.00355989999999,14.969764499999998
+841,mielno,Zachodniopomorskie,Mielno,2200.0,54.25900649999999,16.0539997
+842,mieszkowice,Zachodniopomorskie,Mieszkowice,3612.0,52.785412,14.4954296
+843,miroslawiec,Zachodniopomorskie,Mirosławiec,3051.0,53.34171,16.09094
+844,miedzyzdroje,Zachodniopomorskie,Międzyzdroje,5485.0,53.9282745,14.448903
+845,moryn,Zachodniopomorskie,Moryń,1600.0,52.8558027,14.3968046
+846,mysliborz_139149,Zachodniopomorskie,Myślibórz,11614.0,52.924825,14.8664799
+847,nowogard,Zachodniopomorskie,Nowogard,16937.0,53.6687698,15.1225889
+848,pelczyce,Zachodniopomorskie,Pełczyce,2653.0,53.04218,15.30591
+849,polanow,Zachodniopomorskie,Polanów,3028.0,54.119209999999995,16.68725
+850,police,Zachodniopomorskie,Police,34120.0,53.548643500000004,14.5657399
+851,polczyn-zdroj,Zachodniopomorskie,Połczyn-Zdrój,8444.0,53.7648981,16.095270499999998
+852,przeclaw,Zachodniopomorskie,Przecław,1739.0,50.193918599999996,21.4798564
+853,pyrzyce,Zachodniopomorskie,Pyrzyce,12816.0,53.1457,14.89267
+854,ploty,Zachodniopomorskie,Płoty,4092.0,53.8030947,15.266398800000001
+855,recz,Zachodniopomorskie,Recz,2977.0,53.260153599999995,15.546764800000002
+856,resko,Zachodniopomorskie,Resko,4356.0,53.7733969,15.405605800000002
+857,sianow,Zachodniopomorskie,Sianów,6681.0,54.228188,16.2942839
+858,stargard,Zachodniopomorskie,Stargard,69328.0,53.3379935,15.035049300000003
+859,stepnica,Zachodniopomorskie,Stepnica,2067.0,53.651453000000004,14.6299527
+860,szczecin,Zachodniopomorskie,Szczecin,402465.0,53.4301818,14.550962300000002
+861,szczecinek,Zachodniopomorskie,Szczecinek,40620.0,53.708020999999995,16.6943922
+862,slawno,Zachodniopomorskie,Sławno,12898.0,54.3629824,16.6789071
+863,trzcinsko-zdroj,Zachodniopomorskie,Trzcińsko-Zdrój,2460.0,52.966038100000006,14.607598199999998
+864,trzebiatow,Zachodniopomorskie,Trzebiatów,10202.0,54.06270260000001,15.265715700000001
+865,tuczno,Zachodniopomorskie,Tuczno,1974.0,53.194418999999996,16.1548235
+866,tychowo,Zachodniopomorskie,Tychowo,2512.0,53.92866,16.25668
+867,walcz,Zachodniopomorskie,Wałcz,26231.0,53.26974499999999,16.4670655
+868,wolin,Zachodniopomorskie,Wolin,4999.0,53.843788,14.6157008
+869,wegorzyno,Zachodniopomorskie,Węgorzyno,2909.0,53.5411822,15.560239800000002
+870,zlocieniec,Zachodniopomorskie,Złocieniec,13224.0,53.5310697,16.0120665
+871,lobez,Zachodniopomorskie,Łobez,10438.0,53.6391189,15.621348699999999
+872,swidwin,Zachodniopomorskie,Świdwin,15725.0,53.7747044,15.777351399999999
+873,swinoujscie,Zachodniopomorskie,Świnoujście,41371.0,53.909747700000004,14.2510703

@@ -1,0 +1,957 @@
+,Name,Population,Latitude,Longitude,city
+0,Aleksandrów Kujawski,12565,"52,8765365","18,6935744",aleksandrow-kujawski
+1,Aleksandrów Łódzki,21245,"51,8196533","19,3035375",aleksandrow-łodzki
+2,Alwernia,3425,"50,0690434","19,5396737",alwernia
+3,Andrychów,21111,"49,8555791","19,3436756",andrychow
+4,Annopol,2675,"50,8851655","21,8550836",annopol
+5,Augustów,30610,"53,8437331","22,9802357",augustow
+6,Babimost,4037,"52,165312","15,8285175",babimost
+7,Baborów,2954,"50,1563566","17,9859393",baborow
+8,Baranów Sandomierski,1497,"50,4994982","21,5417887",baranow-sandomierski
+9,Barcin,7609,"52,8632346","17,9472463",barcin
+10,Barczewo,7265,"53,8297112","20,6911497",barczewo
+11,Bardo,2741,"50,50676","16,7402382",bardo
+12,Barlinek,14263,"52,9920762","15,2166391",barlinek
+13,Bartoszyce,24552,"54,2523695","20,8143766",bartoszyce
+14,Barwice,3851,"53,7445649","16,3549399",barwice
+15,Bełchatów,59565,"51,3650175","19,3691833",belchatow
+16,Bełżyce,6765,"51,175063","22,2749995",belzyce
+17,Będzin,58425,"50,3230785","19,1322201",bedzin
+18,Biała,2456,"50,3853609","17,6599107",biala
+19,Biała Piska,4125,"53,6113625","22,0581433",biala-piska
+20,Biała Podlaska,57658,"52,0338399","23,1193948",biala-podlaska
+21,Biała Rawska,3244,"51,8075978","20,4720942",biala-rawska
+22,Białobrzegi,7132,"51,6482305","20,9497458",bialobrzegi
+23,Białogard,24722,"54,0064367","15,9870974",bialogard
+24,Biały Bór,2229,"53,8987414","16,8377275",bialy-bor
+25,Białystok,295459,"53,132398","23,1591679",bialystok
+26,Biecz,4705,"49,7305351","21,249421",biecz
+27,Bielawa,31023,"50,6871117","16,6160879",bielawa
+28,Bielsk Podlaski,26336,"52,7687555","23,1925618",bielsk-podlaski
+29,Bielsko-Biała,173699,"49,822118","19,0448936",bielsko-biala
+30,Bieruń,19696,"50,0931922","19,0918262",bierun
+31,Bierutów,5032,"51,1252738","17,5400351",bierutow
+32,Bieżuń,1910,"52,9617996","19,8899936",biezun
+33,Biłgoraj,27169,"50,5424846","22,7209326",bilgoraj
+34,Biskupiec,10626,"53,8688","20,95518",biskupiec
+35,Bisztynek,2492,"54,0866828","20,908828",bisztynek
+36,Blachownia,9865,"50,7820239","18,9684255",blachownia
+37,Błaszki,2273,"51,6525013","18,4329261",blaszki
+38,Błażowa,2176,"49,8856022","22,1008013",blazowa
+39,Błonie,12570,"52,1946065","20,6169694",blonie
+40,Bobolice,4218,"53,954693","16,5884779",bobolice
+41,Bobowa,3086,"49,7130028","20,9576054",bobowa
+42,Bochnia,30219,"49,9693563","20,430541",bochnia
+43,Bodzentyn,2274,"50,9409927","20,9573478",bodzentyn
+44,Bogatynia,18030,"50,9077147","14,9539185",bogatynia
+45,Boguchwała,6030,"49,9806882","21,9391822",boguchwala
+46,Boguszów-Gorce,15640,"50,7566795","16,2043895",boguszow-gorce
+47,Bojanowo,2970,"51,7075453","16,7481308",bojanowo
+48,Bolesławiec,39603,"51,2630333","15,5651049",boleslawiec
+49,Bolków,4967,"50,9219695","16,1006519",bolkow
+50,Borek Wielkopolski,2533,"51,916153","17,2425955",borek-wielkopolski
+51,Borne Sulinowo,4905,"53,5812939","16,538117",borne-sulinowo
+52,Braniewo,17385,"54,3824857","19,8275588",braniewo
+53,Brańsk,3800,"52,7454145","22,8328169",bransk
+54,Brodnica,28579,"53,258092","19,3993626",brodnica
+55,Brok,1955,"52,6989287","21,8601815",brok
+56,Brusy,5037,"53,8861557","17,7190437",brusy
+57,Brwinów,13090,"52,1425551","20,7170701",brwinow
+58,Brzeg,36980,"50,8614882","17,470497",brzeg
+59,Brzeg Dolny,12536,"51,2613682","16,7228123",brzeg-dolny
+60,Brzesko,17097,"49,9678396","20,6068496",brzesko
+61,Brzeszcze,11474,"49,9819014","19,1528065",brzeszcze
+62,Brześć Kujawski,4697,"52,6048164","18,9015463",brzesc-kujawski
+63,Brzeziny,12577,"51,8004949","19,7517694",brzeziny
+64,Brzostek,2597,"49,8784697","21,411865",brzostek
+65,Brzozów,7836,"49,6950395","22,0196537",brzozow
+66,Budzyń,4333,"52,8909489","16,9835951",budzyn
+67,Buk,6225,"52,357408","16,5166799",buk
+68,Bukowno,10411,"50,2697776","19,4638131",bukowno
+69,Busko-Zdrój,16694,"50,46759","20,71919",busko-zdroj
+70,Bychawa,5178,"51,0152225","22,534535",bychawa
+71,Byczyna,3714,"51,1142355","18,2143288",byczyna
+72,Bydgoszcz,350178,"53,1219648","18,0002529",bydgoszcz
+73,Bystrzyca Kłodzka,10476,"50,2968684","16,652017",bystrzyca-klodzka
+74,Bytom,173439,"50,3470387","18,9231857",bytom
+75,Bytom Odrzański,4408,"51,7308267","15,826918",bytom-odrzanski
+76,Bytów,16842,"54,168855","17,4922953",bytow
+77,Cedynia,1651,"52,8785605","14,202564",cedynia
+78,Chełm,108311,"51,1339221","23,4711548",chelm
+79,Chełmek,9150,"50,1003348","19,2542585",chelmek
+80,Chełmno,20622,"53,3493915","18,4235473",chelmno
+81,Chełmża,14967,"53,1860233","18,6112806",chelmza
+82,Chęciny,4438,"50,8000835","20,4622228",checiny
+83,Chmielnik,3834,"50,6145952","20,7510406",chmielnik
+84,Chocianów,8194,"51,4168327","15,8986889",chocianow
+85,Chociwel,3206,"53,4663949","15,3314436",chociwel
+86,Chocz,1808,"51,97514","17,8707",chocz
+87,Chodecz,1893,"52,4051735","19,0272596",chodecz
+88,Chodzież,19399,"52,9886824","16,9159506",chodziez
+89,Chojna,7344,"52,9629793","14,4314113",chojna
+90,Chojnice,40226,"53,6952912","17,5614973",chojnice
+91,Chojnów,14071,"51,2722894","15,9335241",chojnow
+92,Choroszcz,5818,"53,143925","22,9884588",choroszcz
+93,Chorzele,2939,"53,2610476","20,8978631",chorzele
+94,Chorzów,110761,"50,2978791","18,9544466",chorzow
+95,Choszczno,15716,"53,1704801","15,4167349",choszczno
+96,Chrzanów,38117,"50,1411926","19,4028502",chrzanow
+97,Ciechanowiec,4753,"52,6787967","22,4991103",ciechanowiec
+98,Ciechanów,44797,"52,8819798","20,6191479",ciechanow
+99,Ciechocinek,10880,"52,882552","18,7906883",ciechocinek
+100,Cieszanów,1975,"50,2454329","23,1301265",cieszanow
+101,Cieszyn,35918,"49,7488623","18,6334308",cieszyn
+102,Ciężkowice,2478,"49,786464","20,9737542",ciezkowice
+103,Cybinka,2809,"52,1940293","14,7968841",cybinka
+104,Czaplinek,7188,"53,560673","16,2319428",czaplinek
+105,Czarna Białostocka,9671,"53,2982835","23,2851013",czarna-bialostocka
+106,Czarna Woda,3223,"53,8441983","18,0984293",czarna-woda
+107,Czarne,6089,"53,68353","16,94221",czarne
+108,Czarnków,11256,"52,9050335","16,5639572",czarnkow
+109,Czchów,2375,"49,8339446","20,6731487",czchow
+110,Czechowice-Dziedzice,35684,"49,9112146","19,007564",czechowice-dziedzice
+111,Czeladź,32940,"50,3184581","19,0736572",czeladz
+112,Czempiń,5280,"52,1431479","16,7613308",czempin
+113,Czerniejewo,2642,"52,4296119","17,489398",czerniejewo
+114,Czersk,10008,"53,796196","17,9756228",czersk
+115,Czerwieńsk,4110,"52,0130585","15,4211463",czerwiensk
+116,Czerwińsk nad Wisłą,1089,"52,3968191","20,3096485",czerwinsk-nad-wisla
+117,Czerwionka-Leszczyny,28301,"50,1449958","18,6531994",czerwionka-leszczyny
+118,Częstochowa,232318,"50,8120466","19,113213",czestochowa
+119,Człopa,2342,"53,0884595","16,1201069",czlopa
+120,Człuchów,14385,"53,6651462","17,3588324",czluchow
+121,Czyżew,2639,"52,7975512","22,3123475",czyzew
+122,Ćmielów,3157,"50,8918364","21,5100875",ćmielow
+123,Daleszyce,2932,"50,801991","20,8066334",daleszyce
+124,Darłowo,14229,"54,42249","16,40933",darlowo
+125,Dąbie,2089,"52,0871691","18,8220738",dabie
+126,Dąbrowa Białostocka,5874,"53,654439","23,3485102",dabrowa-bialostocka
+127,Dąbrowa Górnicza,123994,"50,3308692","19,2078918",dabrowa-gornicza
+128,Dąbrowa Tarnowska,11846,"50,1743495","20,9850707",dabrowa-tarnowska
+129,Debrzno,5232,"53,53861","17,2338685",debrzno
+130,Dębica,46854,"50,0514601","21,4104804",debica
+131,Dęblin,16656,"51,562491","21,8654383",deblin
+132,Dębno,14043,"52,7396681","14,7014522",debno
+133,Dobczyce,6469,"49,8803432","20,0905415",dobczyce
+134,Dobiegniew,3169,"52,9667749","15,7548055",dobiegniew
+135,Dobra,1454,"51,9160472","18,6151806",dobra
+136,Dobra,2347,"53,584659","15,3073048",dobra
+137,Dobre Miasto,10599,"53,9868899","20,3973402",dobre-miasto
+138,Dobrodzień,3752,"50,7288597","18,444336",dobrodzien
+139,Dobrzany,2387,"53,3582754","15,4299315",dobrzany
+140,Dobrzyca,3167,"51,8668166","17,6026387",dobrzyca
+141,Dobrzyń nad Wisłą,2225,"52,6374518","19,3213714",dobrzyn-nad-wisla
+142,Dolsk,1560,"51,9866","17,0653695",dolsk
+143,Drawno,2335,"53,2189468","15,7580084",drawno
+144,Drawsko Pomorskie,11878,"53,5310786","15,8134179",drawsko-pomorskie
+145,Drezdenko,10200,"52,8396642","15,8323083",drezdenko
+146,Drobin,2938,"52,7377981","19,9893151",drobin
+147,Drohiczyn,2055,"52,396648","22,658812",drohiczyn
+148,Drzewica,4008,"51,4508384","20,4773617",drzewica
+149,Dubiecko,871,"49,8253187","22,3916222",dubiecko
+150,Dukla,2160,"49,55636","21,6847523",dukla
+151,Duszniki-Zdrój,4899,"50,4044249","16,3901528",duszniki-zdroj
+152,Dynów,6164,"49,8134771","22,2338151",dynow
+153,Działdowo,21552,"53,2346517","20,1817841",dzialdowo
+154,Działoszyce,981,"50,3654682","20,3521471",dzialoszyce
+155,Działoszyn,6173,"51,1168037","18,8651633",dzialoszyn
+156,Dzierzgoń,5593,"53,9239051","19,3479491",dzierzgon
+157,Dzierżoniów,34428,"50,7283543","16,6506207",dzierzoniow
+158,Dziwnów,2736,"54,025095","14,7526469",dziwnow
+159,Elbląg,126460,"54,1558708","19,4044583",elblag
+160,Ełk,60621,"53,8248304","22,3615813",elk
+161,Frampol,1444,"50,671832","22,6698666",frampol
+162,Frombork,2475,"54,3583633","19,6823701",frombork
+163,Garwolin,17060,"51,8973315","21,6149645",garwolin
+164,Gąbin,4142,"52,39942","19,73072",gabin
+165,Gdańsk,461935,"54,3482908","18,6540231",gdansk
+166,Gdynia,248042,"54,5164982","18,5402738",gdynia
+167,Giżycko,29947,"54,040092","21,7713092",gizycko
+168,Glinojeck,3064,"52,819174","20,2862655",glinojeck
+169,Gliwice,185450,"50,294113","18,6657306",gliwice
+170,Głogów,68997,"51,6636791","16,0935567",glogow
+171,Głogów Małopolski,6117,"50,1511809","21,9627571",glogow-malopolski
+172,Głogówek,5755,"50,3534373","17,8619329",glogowek
+173,Głowno,14814,"51,9660873","19,7135665",glowno
+174,Głubczyce,12888,"50,2000941","17,8293199",glubczyce
+175,Głuchołazy,14257,"50,3170828","17,3833809",glucholazy
+176,Głuszyca,6635,"50,6862202","16,3730583",gluszyca
+177,Gniew,6868,"53,8342221","18,8251596",gniew
+178,Gniewkowo,7200,"52,894429","18,4066817",gniewkowo
+179,Gniezno,69883,"52,5359736","17,595889",gniezno
+180,Gogolin,6565,"50,4925107","18,0176197",gogolin
+181,Golczewo,2763,"53,8241081","14,9773396",golczewo
+182,Goleniów,22776,"53,5656704","14,8300626",goleniow
+183,Golina,4478,"52,24276","18,09534",golina
+184,Golub-Dobrzyń,12945,"53,1138924","19,0544501",golub-dobrzyn
+185,Gołańcz,3413,"52,9431644","17,2999756",golancz
+186,Gołdap,13808,"54,3080218","22,3018802",goldap
+187,Goniądz,1900,"53,489222","22,7323721",goniadz
+188,Goraj,968,"50,7212294","22,6682146",goraj
+189,Gorlice,28415,"49,65829","21,1593832",gorlice
+190,Gorzów Śląski,2532,"51,0281551","18,4222682",gorzow-ślaski
+191,Gorzów Wielkopolski,124344,"52,7309926","15,2400451",gorzow
+192,Gostynin,19092,"52,4287607","19,4612956",gostynin
+193,Gostyń,20183,"51,8778633","17,0167637",gostyn
+194,Gościno,2332,"54,0515795","15,6534004",goscino
+195,Gozdnica,3272,"51,4373182","15,0960336",gozdnica
+196,Góra,12448,"51,6681499","16,5393277",gora
+197,Góra Kalwaria,11454,"51,9843765","21,2140226",gora-kalwaria
+198,Górowo Iławeckie,4264,"54,2842481","20,4916449",gorowo-ilaweckie
+199,Górzno,1410,"53,1980846","19,6445713",gorzno
+200,Grabów nad Prosną,1976,"51,5060515","18,1188808",grabow-nad-prosna
+201,Grajewo,22246,"53,6469842","22,4548627",grajewo
+202,Grodków,8746,"50,698157","17,3849804",grodkow
+203,Grodzisk Mazowiecki,29907,"52,1066223","20,6313441",grodzisk-mazowiecki
+204,Grodzisk Wielkopolski,14339,"52,2263198","16,3628106",grodzisk-wielkopolski
+205,Grójec,16197,"51,8655126","20,8675017",grojec
+206,Grudziądz,97676,"53,4876477","18,7557759",grudziadz
+207,Grybów,6066,"49,6250919","20,9446455",grybow
+208,Gryfice,16898,"53,9148529","15,1987062",gryfice
+209,Gryfino,21578,"53,2535889","14,4924243",gryfino
+210,Gryfów Śląski,6902,"51,0281455","15,4145051",gryfow-ślaski
+211,Guben,17655,"51,9503235","14,7153567",guben
+212,Gubin,16952,"51,9509817","14,7272814",gubin
+213,Hajnówka,21559,"52,7396541","23,5817869",hajnowka
+214,Halinów,3707,"52,2258575","21,3529522",halinow
+215,Hel,3491,"54,6066432","18,8027076",hel
+216,Hrubieszów,18585,"50,8047363","23,8873816",hrubieszow
+217,Iława,33338,"53,5976095","19,5612175",ilawa
+218,Iłowa,4013,"51,5006828","15,1984599",ilowa
+219,Iłża,5054,"51,1624174","21,2374622",ilza
+220,Imielin,8621,"50,1454718","19,1857589",imielin
+221,Inowrocław,75001,"52,7952408","18,2595624",inowroclaw
+222,Ińsko,2035,"53,4365292","15,5503079",insko
+223,Iwonicz-Zdrój,1842,"49,5696688","21,7932328",iwonicz-zdroj
+224,Izbica Kujawska,2762,"52,41925","18,76435",izbica-kujawska
+225,Jabłonowo Pomorskie,3806,"53,387984","19,1527034",jablonowo-pomorskie
+226,Janikowo,9169,"52,7531648","18,1141024",janikowo
+227,Janowiec Wielkopolski,4002,"52,7567264","17,4887698",janowiec-wielkopolski
+228,Janów Lubelski,12092,"50,7065895","22,4110663",janow-lubelski
+229,Jaraczewo,1486,"51,9689115","17,2981142",jaraczewo
+230,Jarocin,26394,"51,9738992","17,5011225",jarocin
+231,Jarosław,39146,"50,0159029","22,6796573",jaroslaw
+232,Jasień,4463,"51,7515442","15,0123351",jasien
+233,Jasło,36363,"49,7470465","21,4743139",jaslo
+234,Jastarnia,3874,"54,702764","18,6712892",jastarnia
+235,Jastrowie,8664,"53,4205494","16,8150156",jastrowie
+236,Jastrzębie-Zdrój,91235,"49,9519085","18,6023614",jastrzebie-zdroj
+237,Jawor,22758,"51,0504653","16,1932008",jawor
+238,Jaworzno,93708,"50,203439","19,2721559",jaworzno
+239,Jaworzyna Śląska,5226,"50,9144217","16,4308642",jaworzyna-ślaska
+240,Jedlicze,5770,"49,714148","21,6421513",jedlicze
+241,Jedlina-Zdrój,5000,"50,7238213","16,3457478",jedlina-zdroj
+242,Jedwabne,1717,"53,2867308","22,3021413",jedwabne
+243,Jelcz-Laskowice,15828,"51,0398306","17,3499638",jelcz-laskowice
+244,Jelenia Góra,84306,"50,9031028","15,7344306",jelenia-gora
+245,Jeziorany,3346,"53,9768604","20,7459137",jeziorany
+246,Jędrzejów,15471,"50,6394435","20,3046116",jedrzejow
+247,Jordanów,5340,"49,6492876","19,8299532",jordanow
+248,Józefów,19914,"52,1361065","21,234551",jozefow
+249,Józefów,2494,"50,480395","23,053636",jozefow
+250,Józefów nad Wisłą,920,"51,0408518","21,8296779",jozefow-nad-wisla
+251,Jutrosin,1946,"51,6536197","17,1689896",jutrosin
+252,Kalety,8681,"50,5636291","18,885746",kalety
+253,Kalisz,103997,"51,7624752","18,0895358",kalisz
+254,Kalisz Pomorski,4361,"53,2981616","15,9059903",kalisz-pomorski
+255,Kalwaria Zebrzydowska,4593,"49,8669482","19,6763089",kalwaria-zebrzydowska
+256,Kałuszyn,2916,"52,2082344","21,8133341",kaluszyn
+257,Kamieniec Ząbkowicki,4848,"50,5229139","16,8736143",kamieniec-zabkowicki
+258,Kamienna Góra,20014,"50,7837361","16,0336631",kamienna-gora
+259,Kamień Krajeński,2358,"53,5333203","17,5199143",kamien-krajenski
+260,Kamień Pomorski,9070,"53,9648364","14,7734718",kamien-pomorski
+261,Kamieńsk,2890,"51,204172","19,4970714",kamiensk
+262,Kamionka,,"51,4711228","22,4644249",kamionka
+263,Kańczuga,3222,"49,9843732","22,4131838",kanczuga
+264,Karczew,10160,"52,0782795","21,2508068",karczew
+265,Kargowa,3743,"52,0719225","15,8648044",kargowa
+266,Karlino,5974,"54,0410287","15,8793019",karlino
+267,Karpacz,4570,"50,7747485","15,7542035",karpacz
+268,Kartuzy,14866,"54,3342281","18,1973639",kartuzy
+269,Katowice,304362,"50,2598987","19,0215852",katowice
+270,Kazimierz Dolny,2607,"51,3220058","21,947372",kazimierz-dolny
+271,Kazimierza Wielka,5748,"50,267489","20,4853308",kazimierza-wielka
+272,Kąty Wrocławskie,6422,"51,0302656","16,7702325",katy-wroclawskie
+273,Kcynia,4713,"52,9917668","17,4873729",kcynia
+274,Kędzierzyn-Koźle,63194,"50,3448836","18,2109594",kedzierzyn-kozle
+275,Kępice,3802,"54,2427792","16,8896705",kepice
+276,Kępno,14190,"51,2790265","17,9866632",kepno
+277,Kętrzyn,28051,"54,0764176","21,3752627",ketrzyn
+278,Kęty,19104,"49,8817723","19,2302036",kety
+279,Kielce,187374,"50,8719903","20,6310488",kielce
+280,Kietrz,6267,"50,0796271","18,0021082",kietrz
+281,Kisielice,2155,"53,6076054","19,2593923",kisielice
+282,Kleczew,4240,"52,3707265","18,1779886",kleczew
+283,Kleszczele,1345,"52,574173","23,3254851",kleszczele
+284,Klimontów,2000,"50,6563871","21,4506186",klimontow
+285,Kluczbork,24544,"50,9730701","18,2140089",kluczbork
+286,Kłecko,2661,"52,6324247","17,4282911",klecko
+287,Kłobuck,13246,"50,9024828","18,9371319",klobuck
+288,Kłodawa,6721,"52,2574519","18,911206",klodawa
+289,Kłodzko,27997,"50,438651","16,6551878",klodzko
+290,Knurów,39090,"50,2216536","18,6706574",knurow
+291,Knyszyn,2850,"53,3122442","22,9200387",knyszyn
+292,Kobylin,3236,"51,7163621","17,2247584",kobylin
+293,Kobyłka,20855,"52,3387086","21,1965315",kobylka
+294,Kolbuszowa,9329,"50,2433277","21,7754563",kolbuszowa
+295,Kolno,10579,"53,4109383","21,9312439",kolno
+296,Kolonowskie,3343,"50,6528574","18,3831071",kolonowskie
+297,Koluszki,13419,"51,7444956","19,817966",koluszki
+298,Kołaczyce,1420,"49,8076605","21,4340516",kolaczyce
+299,Koło,23026,"52,2019866","18,6359912",kolo
+300,Kołobrzeg,44980,"54,1759614","15,5764209",kolobrzeg
+301,Koniecpol,6165,"50,7725294","19,6769723",koniecpol
+302,Konin,77224,"52,2301933","18,2521112",konin
+303,Konstancin-Jeziorna,17566,"52,0834787","21,1208073",konstancin-jeziorna
+304,Konstantynów Łódzki,17804,"51,7475546","19,3255118",konstantynow-łodzki
+305,Końskie,20281,"51,1910223","20,4071836",konskie
+306,Koprzywnica,2575,"50,5932218","21,5847266",koprzywnica
+307,Korfantów,1855,"50,4879782","17,5984184",korfantow
+308,Koronowo,11384,"53,3140636","17,9369813",koronowo
+309,Korsze,4586,"54,1707614","21,1442323",korsze
+310,Kosów Lacki,760,"52,5960805","22,1471764",kosow-lacki
+311,Kostrzyn,9492,"52,3983662","17,2275394",kostrzyn
+312,Kostrzyn nad Odrą,18155,"52,5898737","14,6536335",kostrzyn-nad-odra
+313,Koszalin,109170,"54,19092","16,17707",koszalin
+314,Koszyce,830,"50,1669806","20,5756459",koszyce
+315,Kościan,24011,"52,086325","16,6449995",koscian
+316,Kościerzyna,23701,"54,1210215","17,9781656",koscierzyna
+317,Kowal,3541,"52,5308373","19,1499427",kowal
+318,Kowalewo Pomorskie,4261,"53,1543137","18,8975473",kowalewo-pomorskie
+319,Kowary,10813,"50,7937534","15,8338236",kowary
+320,Koziegłowy,2480,"50,5978504","19,1615184",kozieglowy
+321,Kozienice,18277,"51,5849678","21,549883",kozienice
+322,Koźmin Wielkopolski,6698,"51,8256567","17,4528473",kozmin-wielkopolski
+323,Koźminek,1978,"51,798301","18,3383583",kozminek
+324,Kożuchów,9752,"51,7454592","15,5944597",kozuchow
+325,Kórnik,7530,"52,2492751","17,0901242",kornik
+326,Krajenka,3811,"53,2970851","16,9909514",krajenka
+327,Kraków,762508,"50,0619474","19,9368564",krakow
+328,Krapkowice,16721,"50,4747413","17,9675262",krapkowice
+329,Krasnobród,3075,"50,5460046","23,2115593",krasnobrod
+330,Krasnystaw,19539,"50,9844757","23,1635704",krasnystaw
+331,Kraśnik,35788,"50,9249236","22,229206",krasnik
+332,Krobia,4187,"51,7741006","16,9845547",krobia
+333,Krosno,46600,"49,6938045","21,7651458",krosno
+334,Krosno Odrzańskie,11983,"52,0536361","15,0980258",krosno-odrzanskie
+335,Krośniewice,4460,"52,2560639","19,1689326",krosniewice
+336,Krotoszyn,29397,"51,695926","17,4374158",krotoszyn
+337,Kruszwica,9004,"52,6743797","18,3254766",kruszwica
+338,Krynica Morska,1351,"54,3800071","19,4433631",krynica-morska
+339,Krynica-Zdrój,11165,"49,4206138","20,9594176",krynica-zdroj
+340,Krynki,2700,"53,2644419","23,7726182",krynki
+341,Krzanowice,2200,"50,017931","18,1216249",krzanowice
+342,Krzepice,4475,"50,9693977","18,7264242",krzepice
+343,Krzeszowice,10268,"50,1350246","19,6320164",krzeszowice
+344,Krzywiń,1637,"51,962928","16,819295",krzywin
+345,Krzyż Wielkopolski,6209,"52,8796439","16,0141705",krzyz-wielkopolski
+346,Książ Wielkopolski,2780,"52,0623513","17,2395591",ksiaz-wielkopolski
+347,Kudowa-Zdrój,10241,"50,4420034","16,2416299",kudowa-zdroj
+348,Kunów,3098,"50,9541063","21,278823",kunow
+349,Kutno,45657,"52,2317559","19,3570182",kutno
+350,Kuźnia Raciborska,5409,"50,2007002","18,3105735",kuznia-raciborska
+351,Kwidzyn,38867,"53,7335842","18,9319222",kwidzyn
+352,Lądek-Zdrój,5917,"50,3458254","16,8725948",ladek-zdroj
+353,Lebus,3144,"52,4271025","14,5338189",lebus
+354,Legionowo,54231,"52,3952285","20,9308309",legionowo
+355,Legnica,99752,"51,2081617","16,1603187",legnica
+356,Lesko,5432,"49,4689014","22,3303816",lesko
+357,Leszno,64589,"51,8436498","16,5744141",leszno
+358,Leśna,4671,"51,0241667","15,2636111",lesna
+359,Leśnica,2672,"50,4285562","18,1849929",lesnica
+360,Lewin Brzeski,6007,"50,7495823","17,6188526",lewin-brzeski
+361,Leżajsk,14363,"50,2621687","22,418892",lezajsk
+362,Lębork,33967,"54,5391501","17,7472272",lebork
+363,Lędziny,16665,"50,1379295","19,1315264",ledziny
+364,Libiąż,17355,"50,1030516","19,3147486",libiaz
+365,Lidzbark,9351,"53,2628043","19,8231836",lidzbark
+366,Lidzbark Warmiński,16352,"54,1259406","20,5805641",lidzbark-warminski
+367,Limanowa,15133,"49,7061713","20,4217266",limanowa
+368,Lipiany,4085,"53,0035599","14,9697645",lipiany
+369,Lipno,14968,"52,8473901","19,1792654",lipno
+370,Lipsk,2411,"53,7335414","23,4037394",lipsk
+371,Lipsko,5816,"51,158513","21,6490099",lipsko
+372,Lubaczów,12517,"50,1574473","23,1225859",lubaczow
+373,Lubań,21921,"51,1180898","15,2892651",luban
+374,Lubartów,21755,"51,4660473","22,6052895",lubartow
+375,Lubawa,10093,"53,5051482","19,7494057",lubawa
+376,Lubawka,6317,"50,7070882","16,0003894",lubawka
+377,Lubień Kujawski,1401,"52,40736","19,16018",lubien-kujawski
+378,Lubin,74053,"51,3974465","16,2051275",lubin
+379,Lublin,340466,"51,250559","22,5701022",lublin
+380,Lubliniec,24316,"50,669016","18,6825574",lubliniec
+381,Lubniewice,2058,"52,5119594","15,2441003",lubniewice
+382,Lubomierz,1968,"51,0124569","15,51022",lubomierz
+383,Luboń,30676,"52,3458174","16,8784788",lubon
+384,Lubowidz,2000,"53,1216748","19,8407986",lubowidz
+385,Lubraniec,3068,"52,543083","18,8315832",lubraniec
+386,Lubsko,14554,"51,7881902","14,9721266",lubsko
+387,Lubycza Królewska,2485,"50,3411612","23,5196564",lubycza-krolewska
+388,Lututów,2235,"51,3712494","18,4346007",lututow
+389,Lwówek,3058,"52,4489307","16,1803554",lwowek
+390,Lwówek Śląski,9271,"51,1108891","15,5850018",lwowek-ślaski
+391,Łabiszyn,4379,"52,9528653","17,9205877",łabiszyn
+392,Łagów,1562,"50,7754877","21,0839837",łagow
+393,Łańcut,18074,"50,0690725","22,2320924",łancut
+394,Łapy,15786,"52,9908208","22,883005",łapy
+395,Łasin,3377,"53,5196526","19,0870311",łasin
+396,Łask,18029,"51,5929947","19,1334784",łask
+397,Łaskarzew,4893,"51,7889644","21,5921883",łaskarzew
+398,Łaszczów,2202,"50,532615","23,7263929",łaszczow
+399,Łaziska Górne,22418,"50,1500892","18,8390661",łaziska-gorne
+400,Łazy,6965,"50,4276105","19,3948494",łazy
+401,Łeba,3824,"54,7585207","17,555417",łeba
+402,Łęczna,19304,"51,3002941","22,886766",łeczna
+403,Łęczyca,14786,"52,0593642","19,2015681",łeczyca
+404,Łęknica,2602,"51,538237","14,7445378",łeknica
+405,Łobez,10438,"53,6391189","15,6213487",łobez
+406,Łobżenica,3038,"53,2602878","17,2548401",łobzenica
+407,Łochów,6842,"52,53042","21,68528",łochow
+408,Łomianki,16639,"52,3355273","20,895012",łomianki
+409,Łomża,63004,"53,1750699","22,0727551",łomza
+410,Łosice,7085,"52,2115134","22,717294",łosice
+411,Łowicz,29420,"52,107683","19,9447873",łowicz
+412,Łódź,711332,"51,7687323","19,4569911",łodz
+413,Łuków,30381,"51,93008","22,3790669",łukow
+414,Maków Mazowiecki,10118,"52,865678","21,101224",makow-mazowiecki
+415,Maków Podhalański,6037,"49,7298971","19,6768803",makow-podhalanski
+416,Malbork,39022,"54,0359361","19,0348817",malbork
+417,Małogoszcz,3929,"50,8123487","20,2648324",malogoszcz
+418,Małomice,3573,"51,5550002","15,4472908",malomice
+419,Margonin,3034,"52,9732912","17,0948899",margonin
+420,Marki,29032,"52,3254611","21,1054691",marki
+421,Maszewo,3337,"53,496222","15,0613549",maszewo
+422,Miasteczko Śląskie,7379,"50,4915736","18,9230247",miasteczko-ślaskie
+423,Miastko,10926,"54,0001478","16,9774717",miastko
+424,Michałowo,3177,"53,0328933","23,6066858",michalowo
+425,Miechów,11832,"50,3566016","20,0276912",miechow
+426,Miejska Górka,3246,"51,6552093","16,9561451",miejska-gorka
+427,Mielec,61096,"50,2892506","21,4243685",mielec
+428,Mielno,2200,"54,2590065","16,0539997",mielno
+429,Mieroszów,4274,"50,6669858","16,1862044",mieroszow
+430,Mieszkowice,3612,"52,785412","14,4954296",mieszkowice
+431,Międzybórz,2345,"51,397711","17,6650165",miedzyborz
+432,Międzychód,10805,"52,6046468","15,8935386",miedzychod
+433,Międzylesie,2723,"50,1480131","16,6669348",miedzylesie
+434,Międzyrzec Podlaski,17117,"51,9853172","22,7842492",miedzyrzec-podlaski
+435,Międzyrzecz,18552,"52,4448261","15,578637",miedzyrzecz
+436,Międzyzdroje,5485,"53,9282745","14,448903",miedzyzdroje
+437,Mikołajki,3883,"53,7981816","21,5772462",mikolajki
+438,Mikołów,39776,"50,1691812","18,9044238",mikolow
+439,Mikstat,1904,"51,5315251","17,9710681",mikstat
+440,Milanówek,16410,"52,1266493","20,6641191",milanowek
+441,Milicz,11758,"51,5319957","17,2752485",milicz
+442,Miłakowo,2653,"54,0101675","20,0711213",milakowo
+443,Miłomłyn,2431,"53,7634","19,8413501",milomlyn
+444,Miłosław,3626,"52,2023105","17,4892236",miloslaw
+445,Mińsk Mazowiecki,39880,"52,1811496","21,5585859",minsk-mazowiecki
+446,Mirosławiec,3051,"53,34171","16,09094",miroslawiec
+447,Mirsk,3981,"50,9721836","15,3857926",mirsk
+448,Mława,30880,"53,1116182","20,3831732",mlawa
+449,Młynary,1831,"54,1876231","19,7229376",mlynary
+450,Modliborzyce,1440,"50,7534467","22,3291714",modliborzyce
+451,Mogielnica,2386,"51,6929526","20,723371",mogielnica
+452,Mogilno,12369,"52,657341","17,9500677",mogilno
+453,Mońki,10352,"53,4065738","22,7983772",monki
+454,Morawica,1576,"50,7478149","20,6180519",morawica
+455,Morąg,15458,"53,9119982","19,9279895",morag
+456,Mordy,1791,"52,2106634","22,5154232",mordy
+457,Moryń,1600,"52,8558027","14,3968046",moryn
+458,Mosina,12252,"52,2455834","16,8472591",mosina
+459,Mrągowo,22190,"53,8660707","21,3045796",mragowo
+460,Mrocza,4393,"53,2438463","17,6072363",mrocza
+461,Mrozy,3368,"52,1655506","21,8001682",mrozy
+462,Mszana Dolna,7941,"49,6779756","20,0820073",mszana-dolna
+463,Mszczonów,6460,"51,9740309","20,5126683",mszczonow
+464,Murowana Goślina,10386,"52,5758465","17,0097914",murowana-goslina
+465,Muszyna,5069,"49,3561684","20,8967477",muszyna
+466,Mysłowice,75037,"50,2414715","19,1414528",myslowice
+467,Myszków,32619,"50,5736481","19,3219413",myszkow
+468,Myszyniec,3286,"53,3831962","21,3420723",myszyniec
+469,Myślenice,18365,"49,834608","19,9384283",myslenice
+470,Myślibórz,11614,"52,924825","14,8664799",mysliborz
+471,Nakło nad Notecią,19193,"53,1386896","17,5998891",naklo-nad-notecia
+472,Nałęczów,4033,"51,2876064","22,214792",naleczow
+473,Namysłów,16123,"51,0766258","17,7185619",namyslow
+474,Narol,2110,"50,3488112","23,3274426",narol
+475,Nasielsk,7222,"52,5867531","20,8130115",nasielsk
+476,Nekla,3621,"52,3656249","17,4144598",nekla
+477,Nidzica,14300,"53,3613838","20,4275719",nidzica
+478,Niemcza,3121,"50,7163426","16,8350398",niemcza
+479,Niemodlin,6623,"50,6415925","17,6211388",niemodlin
+480,Niepołomice,13276,"50,033182","20,2168012",niepolomice
+481,Nieszawa,1990,"52,8334518","18,9011049",nieszawa
+482,Nisko,15484,"50,5198985","22,139886",nisko
+483,Nowa Dęba,11507,"50,4132684","21,749056",nowa-deba
+484,Nowa Ruda,23236,"50,5791982","16,5014757",nowa-ruda
+485,Nowa Sarzyna,6177,"50,3198578","22,3433771",nowa-sarzyna
+486,Nowa Słupia,1600,"50,8640377","21,0907296",nowa-slupia
+487,Nowa Sól,39721,"51,8019595","15,7175608",nowa-sol
+488,Nowe,6022,"53,6462325","18,7290468",nowe
+489,Nowe Brzesko,1700,"50,1322823","20,3767203",nowe-brzesko
+490,Nowe Miasteczko,2884,"51,6908103","15,7311977",nowe-miasteczko
+491,Nowe Miasto Lubawskie,11241,"53,4255933","19,5936277",nowe-miasto-lubawskie
+492,Nowe Miasto nad Pilicą,3920,"51,616692","20,5796171",nowe-miasto-nad-pilica
+493,Nowe Skalmierzyce,4830,"51,7109127","17,9943345",nowe-skalmierzyce
+494,Nowe Warpno,1231,"53,7252724","14,2809332",nowe-warpno
+495,Nowogard,16937,"53,6687698","15,1225889",nowogard
+496,Nowogrodziec,4244,"51,1971363","15,3987046",nowogrodziec
+497,Nowogród,2197,"53,2280804","21,8797908",nowogrod
+498,Nowogród Bobrzański,5161,"51,7986474","15,2365032",nowogrod-bobrzanski
+499,Nowy Dwór Gdański,10083,"54,2146299","19,1150846",nowy-dwor-gdanski
+500,Nowy Dwór Mazowiecki,28287,"52,4306508","20,7154712",nowy-dwor-mazowiecki
+501,Nowy Korczyn,1032,"50,2994316","20,8090569",nowy-korczyn
+502,Nowy Sącz,83943,"49,6249173","20,691346",nowy-sacz
+503,Nowy Staw,4335,"54,1342754","19,0086861",nowy-staw
+504,Nowy Targ,33672,"49,4818229","20,030541",nowy-targ
+505,Nowy Tomyśl,14899,"52,3177643","16,1291553",nowy-tomysl
+506,Nowy Wiśnicz,2757,"49,9152667","20,4621677",nowy-wisnicz
+507,Nysa,44899,"50,4738029","17,3324733",nysa
+508,Oborniki,18421,"52,6455252","16,8099756",oborniki
+509,Oborniki Śląskie,9038,"51,3010662","16,9145509",oborniki-ślaskie
+510,Obrzycko,2189,"52,7064375","16,5252416",obrzycko
+511,Odolanów,5116,"51,5742177","17,673514",odolanow
+512,Ogrodzieniec,4379,"50,4521463","19,5213629",ogrodzieniec
+513,Okonek,3981,"53,5347646","16,8516192",okonek
+514,Olecko,16533,"54,0398024","22,4934246",olecko
+515,Olesno,9597,"50,8766575","18,4219452",olesno
+516,Oleszyce,3053,"50,1682003","23,0314836",oleszyce
+517,Oleśnica,37303,"51,2095314","17,3804559",olesnica
+518,Oleśnica,1800,"50,4506465","21,0637505",olesnica
+519,Olkusz,36724,"50,2788158","19,5596307",olkusz
+520,Olsztyn,174675,"53,7766839","20,476507",olsztyn
+521,Olsztynek,7721,"53,5834201","20,2816198",olsztynek
+522,Olszyna,4769,"51,0655505","15,3753102",olszyna
+523,Oława,32240,"50,9431901","17,2957066",olawa
+524,Opalenica,9591,"52,3088119","16,4124256",opalenica
+525,Opatowiec,338,"50,2425871","20,7237798",opatowiec
+526,Opatów,6767,"50,8017661","21,4238281",opatow
+527,Opatówek,3800,"51,7394437","18,2137254",opatowek
+528,Opoczno,22188,"51,3782439","20,2931754",opoczno
+529,Opole,120146,"50,6668184","17,9236408",opole
+530,Opole Lubelskie,8860,"51,1475365","21,9664152",opole-lubelskie
+531,Orneta,9837,"54,1155533","20,1303378",orneta
+532,Orzesze,20451,"50,1439","18,77462",orzesze
+533,Orzysz,5797,"53,809833","21,9473601",orzysz
+534,Osieczna,2245,"51,9033938","16,6762108",osieczna
+535,Osiek,1993,"50,5194515","21,4425619",osiek
+536,Ostritz,3100,"51,014934","14,9327975",ostritz
+537,Ostrołęka,52917,"53,0843135","21,5668607",ostroleka
+538,Ostroróg,1958,"52,6261122","16,45406",ostrorog
+539,Ostrowiec Świętokrzyski,72277,"50,9398768","21,38743",ostrowiec-świetokrzyski
+540,Ostróda,33963,"53,7028533","19,9623028",ostroda
+541,Ostrów Lubelski,2153,"51,4971197","22,8554683",ostrow-lubelski
+542,Ostrów Mazowiecka,22796,"52,8000429","21,897638",ostrow-mazowiecka
+543,Ostrów Wielkopolski,72050,"51,6495023","17,8167085",ostrow-wielkopolski
+544,Ostrzeszów,14515,"51,4257664","17,9331788",ostrzeszow
+545,Ośno Lubuskie,3889,"52,455132","14,8682003",osno-lubuskie
+546,Oświęcim,39664,"50,0382443","19,2214053",oswiecim
+547,Otmuchów,5068,"50,465351","17,1730499",otmuchow
+548,Otwock,45044,"52,1041197","21,2681092",otwock
+549,Otyń,1500,"51,8473213","15,7104",otyn
+550,Ozimek,8959,"50,6789196","18,2125227",ozimek
+551,Ozorków,20175,"51,9636101","19,2918111",ozorkow
+552,Ożarów,4730,"50,8864089","21,6656244",ozarow
+553,Ożarów Mazowiecki,10735,"52,2080548","20,7941606",ozarow-mazowiecki
+554,Pabianice,67688,"51,6639859","19,3535024",pabianice
+555,Pacanów,1137,"50,3999656","21,0409852",pacanow
+556,Paczków,7464,"50,4636773","17,0057683",paczkow
+557,Pajęczno,6700,"51,1468824","18,9956984",pajeczno
+558,Pakość,5997,"52,8073319","18,0899612",pakosc
+559,Parczew,10204,"51,639","22,9",parczew
+560,Pasłęk,12453,"54,0626346","19,6565365",paslek
+561,Pasym,2536,"53,6521615","20,7917422",pasym
+562,Pelplin,8254,"53,9278352","18,6985388",pelplin
+563,Pełczyce,2653,"53,04218","15,30591",pelczyce
+564,Piaseczno,44880,"52,0747377","21,0270885",piaseczno
+565,Piaski,2621,"51,1378115","22,8475225",piaski
+566,Piastów,22907,"52,1812559","20,8415937",piastow
+567,Piątek,2130,"52,0689883","19,4799726",piatek
+568,Piechowice,6194,"50,8494747","15,5976047",piechowice
+569,Piekary Śląskie,57148,"50,3840312","18,9456429",piekary-ślaskie
+570,Pieniężno,2949,"54,2385662","20,1258163",pieniezno
+571,Pieńsk,5938,"51,2457834","15,0449871",piensk
+572,Pierzchnica,870,"50,6974266","20,7544258",pierzchnica
+573,Pieszyce,7254,"50,7124412","16,581609",pieszyce
+574,Pilawa,4438,"51,9595452","21,5271524",pilawa
+575,Pilica,1948,"50,4681134","19,6573591",pilica
+576,Pilzno,4792,"49,978578","21,2908438",pilzno
+577,Piła,74609,"53,1511324","16,7380343",pila
+578,Piława Górna,6602,"50,6826226","16,7435225",pilawa-gorna
+579,Pińczów,11306,"50,5201929","20,5256241",pinczow
+580,Pionki,19382,"51,4730031","21,4438404",pionki
+581,Piotrków Kujawski,4462,"52,55057","18,49872",piotrkow-kujawski
+582,Piotrków Trybunalski,75903,"51,4082625","19,696167",piotrkow-trybunalski
+583,Pisz,19530,"53,6294943","21,8098191",pisz
+584,Piwniczna-Zdrój,5936,"49,4406462","20,7142303",piwniczna-zdroj
+585,Pleszew,17717,"51,8960985","17,7865673",pleszew
+586,Płock,122815,"52,5464521","19,7008606",plock
+587,Płońsk,22494,"52,6226617","20,3705091",plonsk
+588,Płoty,4092,"53,8030947","15,2663988",ploty
+589,Pniewy,7953,"52,5089624","16,2566411",pniewy
+590,Pobiedziska,9043,"52,4773387","17,2870352",pobiedziska
+591,Poddębice,7780,"51,8931973","18,9517348",poddebice
+592,Podkowa Leśna,3869,"52,1217773","20,7295541",podkowa-lesna
+593,Pogorzela,2046,"51,8224142","17,2310362",pogorzela
+594,Polanica-Zdrój,6663,"50,4079276","16,5107431",polanica-zdroj
+595,Polanów,3028,"54,11921","16,68725",polanow
+596,Police,34120,"53,5486435","14,5657399",police
+597,Polkowice,22525,"51,5039288","16,0713371",polkowice
+598,Połaniec,8347,"50,4329071","21,2810473",polaniec
+599,Połczyn-Zdrój,8444,"53,7648981","16,0952705",polczyn-zdroj
+600,Poniatowa,9646,"51,19298","22,06505",poniatowa
+601,Poniec,2910,"51,7650386","16,8059899",poniec
+602,Poręba,8747,"50,4875787","19,337879",poreba
+603,Poznań,548028,"52,4082663","16,9335199",poznan
+604,Prabuty,8802,"53,755995","19,2044449",prabuty
+605,Praszka,7944,"51,05536","18,4485221",praszka
+606,Prochowice,3649,"51,273422","16,3644321",prochowice
+607,Proszowice,6184,"50,1926479","20,2917555",proszowice
+608,Prószków,2684,"50,5786696","17,8699852",proszkow
+609,Pruchnik,3757,"49,9061358","22,5160585",pruchnik
+610,Prudnik,21778,"50,3217212","17,5801041",prudnik
+611,Prusice,2274,"51,3707663","16,9626816",prusice
+612,Pruszcz Gdański,28858,"54,2608539","18,6461908",pruszcz-gdanski
+613,Pruszków,59570,"52,1626141","20,8080199",pruszkow
+614,Przasnysz,17326,"53,0190219","20,8804028",przasnysz
+615,Przecław,1739,"50,1939186","21,4798564",przeclaw
+616,Przedbórz,3800,"51,0868077","19,8744414",przedborz
+617,Przedecz,1759,"52,3341735","18,8985119",przedecz
+618,Przemków,6484,"51,5275418","15,7874473",przemkow
+619,Przemyśl,62720,"49,7821562","22,7692634",przemysl
+620,Przeworsk,15779,"50,0601735","22,4923769",przeworsk
+621,Przysucha,6008,"51,3585043","20,6285468",przysucha
+622,Pszczyna,25990,"49,9778328","18,9425124",pszczyna
+623,Pszów,14252,"50,0395806","18,3949412",pszow
+624,Puck,11396,"54,7203995","18,411338",puck
+625,Puławy,49100,"51,4171713","21,9720582",pulawy
+626,Pułtusk,19240,"52,7051109","21,0840274",pultusk
+627,Puszczykowo,9819,"52,2884282","16,8596018",puszczykowo
+628,Pyrzyce,12816,"53,1457","14,89267",pyrzyce
+629,Pyskowice,18642,"50,3980823","18,6277201",pyskowice
+630,Pyzdry,3234,"52,1694332","17,687134",pyzdry
+631,Rabka-Zdrój,13154,"49,6076663","19,9622575",rabka-zdroj
+632,Raciąż,4662,"52,7810586","20,118111",raciaz
+633,Racibórz,55930,"50,0917343","18,2196766",raciborz
+634,Radków,2485,"50,5042182","16,401351",radkow
+635,Radlin,17984,"50,0486957","18,4791456",radlin
+636,Radłów,2771,"50,0830887","20,8476617",radlow
+637,Radom,218466,"51,4022557","21,1541546",radom
+638,Radomsko,47643,"51,0674769","19,4446109",radomsko
+639,Radomyśl Wielki,3141,"50,1963674","21,2761596",radomysl-wielki
+640,Radoszyce,3400,"51,0736699","20,2597677",radoszyce
+641,Radymno,5354,"49,9517176","22,8183129",radymno
+642,Radziejów,5670,"52,6251015","18,5269434",radziejow
+643,Radzionków,17025,"50,4002717","18,9026247",radzionkow
+644,Radzymin,11378,"52,4176347","21,1807836",radzymin
+645,Radzyń Chełmiński,1878,"53,385006","18,9351906",radzyn-chelminski
+646,Radzyń Podlaski,15963,"51,7827253","22,6208818",radzyn-podlaski
+647,Rajgród,1626,"53,7304739","22,6976173",rajgrod
+648,Rakoniewice,3523,"52,1393485","16,2738532",rakoniewice
+649,Raszków,2076,"51,7182066","17,7277057",raszkow
+650,Rawa Mazowiecka,17819,"51,7624929","20,2519293",rawa-mazowiecka
+651,Rawicz,20846,"51,6101629","16,8583657",rawicz
+652,Recz,2977,"53,2601536","15,5467648",recz
+653,Reda,23135,"54,6043272","18,3505191",reda
+654,Rejowiec,6508,"51,0945453","23,2832851",rejowiec
+655,Rejowiec Fabryczny,4515,"51,1191844","23,2467333",rejowiec-fabryczny
+656,Resko,4356,"53,7733969","15,4056058",resko
+657,Reszel,4817,"54,0482576","21,1421611",reszel
+658,Rogoźno,11309,"52,7523023","16,9936288",rogozno
+659,Ropczyce,15683,"50,0528608","21,6116324",ropczyce
+660,Różan,2730,"52,8886251","21,3965069",rozan
+661,Ruciane-Nida,4604,"53,65042","21,55982",ruciane-nida
+662,Ruda Śląska,137030,"50,2858001","18,8747933",ruda-ślaska
+663,Rudnik nad Sanem,6858,"50,4447917","22,2438721",rudnik-nad-sanem
+664,Rumia,47374,"54,5700148","18,3969008",rumia
+665,Rybnik,140173,"50,0955793","18,5419933",rybnik
+666,Rychwał,2369,"52,0706234","18,1668295",rychwal
+667,Rydułtowy,21847,"50,058436","18,4171831",rydultowy
+668,Rydzyna,2762,"51,7863742","16,6673223",rydzyna
+669,Ryglice,2838,"49,8783327","21,1380371",ryglice
+670,Ryki,9955,"51,6266968","21,935696",ryki
+671,Rymanów,3769,"49,576131","21,8676433",rymanow
+672,Ryn,2925,"53,9386839","21,5440643",ryn
+673,Rypin,16834,"53,0672809","19,4060273",rypin
+674,Rzepin,6689,"52,34432","14,8382902",rzepin
+675,Rzeszów,187422,"50,0374531","22,0047174",rzeszow
+676,Rzgów,3300,"51,6626459","19,4908076",rzgow
+677,Sandomierz,24552,"50,6793066","21,7495055",sandomierz
+678,Sanniki,2000,"52,33089","19,86693",sanniki
+679,Sanok,39027,"49,5609053","22,207028",sanok
+680,Sejny,5650,"54,105725","23,3496591",sejny
+681,Serock,4130,"52,5135193","21,0731162",serock
+682,Sędziszów,6707,"50,564781","20,0538047",sedziszow
+683,Sędziszów Małopolski,7492,"50,0715996","21,7007524",sedziszow-malopolski
+684,Sępopol,2051,"54,264716","21,0146462",sepopol
+685,Sępólno Krajeńskie,9368,"53,4547434","17,5348373",sepolno-krajenskie
+686,Sianów,6681,"54,228188","16,2942839",sianow
+687,Siechnice,6063,"51,0323875","17,1507275",siechnice
+688,Siedlce,77102,"52,1663751","22,2765138",siedlce
+689,Siedliszcze,813,"51,1946235","23,1648455",siedliszcze
+690,Siemianowice Śląskie,68844,"50,3052029","19,0275635",siemianowice-ślaskie
+691,Siemiatycze,14652,"52,4278979","22,8627258",siemiatycze
+692,Sieniawa,2161,"50,1780728","22,6102155",sieniawa
+693,Sieradz,43356,"51,5942475","18,7378774",sieradz
+694,Sieraków,6117,"52,6517159","16,0808316",sierakow
+695,Sierpc,18742,"52,8529055","19,6675433",sierpc
+696,Siewierz,5481,"50,4710097","19,2318901",siewierz
+697,Skalbmierz,1315,"50,3170888","20,3996843",skalbmierz
+698,Skała,3762,"50,2303769","19,853537",skala
+699,Skarszewy,7082,"54,0717523","18,4459951",skarszewy
+700,Skaryszew,4346,"51,3105682","21,2523856",skaryszew
+701,Skarżysko-Kamienna,47538,"51,1138821","20,857883",skarzysko-kamienna
+702,Skawina,24260,"49,9747508","19,8265702",skawina
+703,Skępe,3669,"52,8671562","19,3465204",skepe
+704,Skierniewice,48634,"51,9568581","20,1430044",skierniewice
+705,Skoczów,14741,"49,7999039","18,7877583",skoczow
+706,Skoki,4145,"52,6725926","17,1531343",skoki
+707,Skórcz,3599,"53,79455","18,52432",skorcz
+708,Skwierzyna,9768,"52,5967483","15,5010958",skwierzyna
+709,Sława,4318,"51,8807001","16,0702499",slawa
+710,Sławków,7092,"50,2984547","19,3898475",slawkow
+711,Sławno,12898,"54,3629824","16,6789071",slawno
+712,Słomniki,4423,"50,2403739","20,0811369",slomniki
+713,Słubice,16908,"52,3557481","14,5662367",slubice
+714,Słupca,14019,"52,2872924","17,8713612",slupca
+715,Słupsk,93936,"54,4649331","17,028073",slupsk
+716,Sobótka,6991,"50,8990885","16,7445705",sobotka
+717,Sochaczew,37480,"52,2296562","20,2379379",sochaczew
+718,Sochocin,1997,"52,6898865","20,4707992",sochocin
+719,Sokołów Małopolski,4040,"50,2311643","22,1189272",sokolow-malopolski
+720,Sokołów Podlaski,18781,"52,4081717","22,2525679",sokolow-podlaski
+721,Sokółka,18765,"53,4049183","23,4995562",sokolka
+722,Solec Kujawski,15642,"53,0791965","18,2246086",solec-kujawski
+723,Solec nad Wisłą,965,"51,1349963","21,765376",solec-nad-wisla
+724,Sompolno,3677,"52,3884355","18,5030075",sompolno
+725,Sopot,37903,"54,4447922","18,5684902",sopot
+726,Sosnowiec,211275,"50,2780834","19,1342944",sosnowiec
+727,Sośnicowice,1853,"50,2722844","18,5298588",sosnicowice
+728,Stalowa Wola,63291,"50,5653105","22,0644075",stalowa-wola
+729,Starachowice,51158,"51,0518865","21,0761377",starachowice
+730,Stargard,69328,"53,3379935","15,0350493",stargard
+731,Starogard Gdański,48621,"53,9671805","18,532113",starogard-gdanski
+732,Stary Sącz,9107,"49,5640268","20,6366235",stary-sacz
+733,Staszów,15384,"50,5612276","21,1677849",staszow
+734,Stawiski,2379,"53,3798382","22,1548937",stawiski
+735,Stawiszyn,1561,"51,9182364","18,1115413",stawiszyn
+736,Stąporków,5996,"51,1380145","20,5573073",staporkow
+737,Stepnica,2067,"53,651453","14,6299527",stepnica
+738,Stęszew,5834,"52,2793539","16,6999331",steszew
+739,Stoczek Łukowski,2700,"51,9617406","21,9697078",stoczek-łukowski
+740,Stopnica,1500,"50,4382587","20,9385676",stopnica
+741,Stronie Śląskie,6192,"50,2916337","16,8736919",stronie-ślaskie
+742,Strumień,3642,"49,9171995","18,7634908",strumien
+743,Stryków,3537,"51,9009447","19,6036969",strykow
+744,Strzegom,16769,"50,9601066","16,3462134",strzegom
+745,Strzelce Krajeńskie,10109,"52,8785255","15,5325925",strzelce-krajenskie
+746,Strzelce Opolskie,18451,"50,5109033","18,3004547",strzelce-opolskie
+747,Strzelin,12556,"50,78092","17,0683947",strzelin
+748,Strzelno,5812,"52,6301742","18,1733807",strzelno
+749,Strzyżów,8967,"49,8702087","21,7856291",strzyzow
+750,Sucha Beskidzka,9485,"49,74079","19,5905975",sucha-beskidzka
+751,Suchań,1466,"53,2799427","15,3188331",suchan
+752,Suchedniów,8714,"51,0472338","20,8386652",suchedniow
+753,Suchowola,2274,"53,578557","23,1058224",suchowola
+754,Sulechów,17461,"52,0854782","15,6259091",sulechow
+755,Sulejów,6349,"51,3549202","19,8890802",sulejow
+756,Sulejówek,19311,"52,2467992","21,282523",sulejowek
+757,Sulęcin,10265,"52,4413768","15,1161501",sulecin
+758,Sulmierzyce,2900,"51,6064157","17,5278074",sulmierzyce
+759,Sułkowice,6520,"49,8408265","19,8012137",sulkowice
+760,Supraśl,4679,"53,2100391","23,3360728",suprasl
+761,Suraż,1008,"52,9491665","22,9563836",suraz
+762,Susz,5717,"53,7166619","19,3385289",susz
+763,Suwałki,69317,"54,0990636","22,9279363",suwalki
+764,Swarzędz,31084,"52,4103728","17,0771038",swarzedz
+765,Syców,10413,"51,30998","17,72354",sycow
+766,Szadek,2019,"51,69175","18,97703",szadek
+767,Szamocin,4343,"53,0294857","17,1232969",szamocin
+768,Szamotuły,18799,"52,6120328","16,5831241",szamotuly
+769,Szczawnica,6032,"49,4266299","20,4761439",szczawnica
+770,Szczawno-Zdrój,5796,"50,8066959","16,2540971",szczawno-zdroj
+771,Szczebrzeszyn,5245,"50,6946972","22,9786754",szczebrzeszyn
+772,Szczecin,402465,"53,4301818","14,5509623",szczecin
+773,Szczecinek,40620,"53,708021","16,6943922",szczecinek
+774,Szczekociny,3745,"50,6259216","19,8194681",szczekociny
+775,Szczucin,4145,"50,3090256","21,075161",szczucin
+776,Szczuczyn,3442,"53,5629982","22,2855495",szczuczyn
+777,Szczyrk,5750,"49,7165976","19,0254613",szczyrk
+778,Szczytna,5363,"50,4169281","16,4408185",szczytna
+779,Szczytno,24489,"53,565489","20,991589",szczytno
+780,Szepietowo,2412,"52,8712982","22,5474331",szepietowo
+781,Szklarska Poręba,6557,"50,8275855","15,5211659",szklarska-poreba
+782,Szlichtyngowa,1328,"51,7140748","16,2445989",szlichtyngowa
+783,Szprotawa,12329,"51,5650714","15,5367584",szprotawa
+784,Sztum,10332,"53,9198663","19,0305384",sztum
+785,Szubin,9580,"53,0117503","17,7439402",szubin
+786,Szydłowiec,11907,"51,2238922","20,8575141",szydlowiec
+787,Szydłów,1076,"50,5907684","21,0045698",szydlow
+788,Ścinawa,5798,"51,4165346","16,4259732",ścinawa
+789,Ślesin,3154,"52,37082","18,30593",ślesin
+790,Śmigiel,5603,"52,012744","16,5271118",śmigiel
+791,Śrem,30477,"52,0893322","17,0156809",śrem
+792,Środa Śląska,9317,"51,1638949","16,5942505",środa-ślaska
+793,Środa Wielkopolska,22572,"52,2284266","17,277827",środa-wielkopolska
+794,Świątniki Górne,2394,"49,9346365","19,9524965",światniki-gorne
+795,Świdnica,59182,"50,8424835","16,4870549",świdnica
+796,Świdnik,40225,"51,2204629","22,6998639",świdnik
+797,Świdwin,15725,"53,7747044","15,7773514",świdwin
+798,Świebodzice,23152,"50,859573","16,3196056",świebodzice
+799,Świebodzin,22064,"52,2498357","15,5324973",świebodzin
+800,Świecie,26395,"53,4072518","18,4455253",świecie
+801,Świeradów-Zdrój,4342,"50,9093388","15,3332153",świeradow-zdroj
+802,Świerzawa,2492,"51,0147404","15,8948997",świerzawa
+803,Świętochłowice,51824,"50,2854551","18,9308513",świetochlowice
+804,Świnoujście,41371,"53,9097477","14,2510703",świnoujscie
+805,Tarczyn,3869,"51,9802935","20,8339613",tarczyn
+806,Tarnobrzeg,48217,"50,5715277","21,6704871",tarnobrzeg
+807,Tarnogród,3362,"50,361309","22,7419384",tarnogrod
+808,Tarnowskie Góry,60957,"50,4445194","18,8554757",tarnowskie-gory
+809,Tarnów,112120,"50,0123784","20,9880739",tarnow
+810,Tczew,60610,"54,0869532","18,8000293",tczew
+811,Terespol,5815,"52,0756167","23,6133645",terespol
+812,Tłuszcz,8056,"52,4301697","21,4355074",tluszcz
+813,Tolkmicko,2807,"54,3202314","19,5269874",tolkmicko
+814,Tomaszów Lubelski,19550,"50,4573288","23,4170362",tomaszow-lubelski
+815,Tomaszów Mazowiecki,64893,"51,5316918","20,0084195",tomaszow-mazowiecki
+816,Toruń,203447,"53,0102721","18,6048094",torun
+817,Torzym,2597,"52,3138586","15,0828279",torzym
+818,Toszek,3664,"50,4551063","18,5180604",toszek
+819,Trzcianka,17301,"53,0417582","16,4610993",trzcianka
+820,Trzciel,2496,"52,365166","15,873213",trzciel
+821,Trzcińsko-Zdrój,2460,"52,9660381","14,6075982",trzcinsko-zdroj
+822,Trzebiatów,10202,"54,0627026","15,2657157",trzebiatow
+823,Trzebinia,20302,"50,1597686","19,4709097",trzebinia
+824,Trzebnica,12945,"51,3096424","17,062596",trzebnica
+825,Trzemeszno,7843,"52,5600669","17,8208936",trzemeszno
+826,Tuchola,13949,"53,5880901","17,8590414",tuchola
+827,Tuchów,6720,"49,895219","21,0538362",tuchow
+828,Tuczno,1974,"53,194419","16,1548235",tuczno
+829,Tuliszków,3405,"52,0770973","18,294932",tuliszkow
+830,Tułowice,4290,"50,5954195","17,6533063",tulowice
+831,Turek,28100,"52,01595","18,50191",turek
+832,Tuszyn,7201,"51,60308","19,54454",tuszyn
+833,Twardogóra,6762,"51,364557","17,469599",twardogora
+834,Tychowo,2512,"53,92866","16,25668",tychowo
+835,Tychy,128812,"50,114397","18,9965933",tychy
+836,Tyczyn,3641,"49,9637919","22,0336719",tyczyn
+837,Tykocin,1906,"53,207646","22,7730188",tykocin
+838,Tyszowce,2171,"50,6172008","23,6982172",tyszowce
+839,Ujazd,1740,"50,3892513","18,3504502",ujazd
+840,Ujście,3828,"53,0531546","16,7324266",ujscie
+841,Ulanów,1472,"50,4904352","22,2625676",ulanow
+842,Uniejów,3079,"51,9741302","18,793245",uniejow
+843,Urzędów,3500,"50,9939046","22,1435756",urzedow
+844,Ustka,16263,"54,5811254","16,8612962",ustka
+845,Ustroń,16003,"49,7181505","18,8028338",ustron
+846,Ustrzyki Dolne,9041,"49,4301874","22,5877003",ustrzyki-dolne
+847,Wadowice,19309,"49,8834484","19,4925345",wadowice
+848,Wałbrzych,122927,"50,7659054","16,2825424",walbrzych
+849,Wałcz,26231,"53,269745","16,4670655",walcz
+850,Warka,11727,"51,7850969","21,1833835",warka
+851,Warszawa,1744351,"52,2319581","21,0067249",warszawa
+852,Warta,3337,"51,7081927","18,6250791",warta
+853,Wasilków,10511,"53,198684","23,2056777",wasilkow
+854,Wąbrzeźno,14040,"53,2799665","18,947293",wabrzezno
+855,Wąchock,2865,"51,073812","21,0116897",wachock
+856,Wągrowiec,25178,"52,8071754","17,1973241",wagrowiec
+857,Wąsosz,2756,"51,5641","16,69307",wasosz
+858,Wejherowo,50340,"54,6026348","18,247934",wejherowo
+859,Węgliniec,2928,"51,2871203","15,2241355",wegliniec
+860,Węgorzewo,11699,"54,2138162","21,7416569",wegorzewo
+861,Węgorzyno,2909,"53,5411822","15,5602398",wegorzyno
+862,Węgrów,12796,"52,3989231","22,0174472",wegrow
+863,Wiązów,2327,"50,8138794","17,2017238",wiazow
+864,Wielbark,2943,"53,3984244","20,9462724",wielbark
+865,Wieleń,6021,"52,8943347","16,1712847",wielen
+866,Wielichowo,1766,"52,1182673","16,3521384",wielichowo
+867,Wieliczka,21676,"49,9823773","20,0602114",wieliczka
+868,Wieluń,23546,"51,2205345","18,5701081",wielun
+869,Wieruszów,8848,"51,2951647","18,1510623",wieruszow
+870,Więcbork,5970,"53,3525453","17,4873925",wiecbork
+871,Wilamowice,3011,"49,9167395","19,1524707",wilamowice
+872,Wiskitki,1404,"52,0868993","20,3832461",wiskitki
+873,Wisła,11333,"49,6523647","18,8709256",wisla
+874,Wiślica,680,"50,3484831","20,6745381",wislica
+875,Witkowo,8014,"52,4395881","17,7725138",witkowo
+876,Witnica,6951,"52,6729399","14,8972121",witnica
+877,Wleń,1818,"51,0168814","15,6744645",wlen
+878,Władysławowo,15400,"54,7901316","18,4087342",wladyslawowo
+879,Włocławek,114885,"52,6605543","19,0720627",wloclawek
+880,Włodawa,13066,"51,5466412","23,553219",wlodawa
+881,Włoszczowa,10210,"50,8520727","19,9667772",wloszczowa
+882,Wodzisław,1153,"50,5211403","20,1909163",wodzislaw
+883,Wodzisław Śląski,48731,"50,0024107","18,4630383",wodzislaw-ślaski
+884,Wojcieszów,3650,"50,9516542","15,9217422",wojcieszow
+885,Wojkowice,9311,"50,3652915","19,0366218",wojkowice
+886,Wojnicz,3404,"49,9573496","20,8364048",wojnicz
+887,Wolbórz,2381,"51,5036311","19,830319",wolborz
+888,Wolbrom,8874,"50,3848386","19,7598844",wolbrom
+889,Wolin,4999,"53,843788","14,6157008",wolin
+890,Wolsztyn,13586,"52,11725","16,1126622",wolsztyn
+891,Wołczyn,5986,"51,0190253","18,049603",wolczyn
+892,Wołomin,37298,"52,3468689","21,2420179",wolomin
+893,Wołów,12646,"51,3363841","16,6486903",wolow
+894,Woźniki,4395,"50,58757","19,05677",wozniki
+895,Wrocław,634487,"51,1089776","17,0326689",wroclaw
+896,Wronki,11566,"52,7101225","16,3742272",wronki
+897,Września,29552,"52,3250694","17,5652282",wrzesnia
+898,Wschowa,14329,"51,8038354","16,3172771",wschowa
+899,Wyrzysk,5191,"53,1569822","17,2627004",wyrzysk
+900,Wysoka,2758,"53,1829333","17,0797137",wysoka
+901,Wysokie Mazowieckie,9503,"52,9154988","22,5131199",wysokie-mazowieckie
+902,Wyszków,27222,"52,5928035","21,4584581",wyszkow
+903,Wyszogród,2687,"52,3883717","20,1913084",wyszogrod
+904,Wyśmierzyce,910,"51,6251076","20,8119331",wysmierzyce
+905,Zabłudów,2495,"53,0147671","23,3379526",zabludow
+906,Zabrze,178357,"50,3086154","18,7863749",zabrze
+907,Zagórów,2995,"52,16899","17,90016",zagorow
+908,Zagórz,5082,"49,5098822","22,2632894",zagorz
+909,Zakliczyn,1558,"49,8564352","20,8086652",zakliczyn
+910,Zaklików,3041,"50,7554368","22,1020214",zaklikow
+911,Zakopane,27442,"49,2969446","19,950659",zakopane
+912,Zakroczym,3241,"52,4333534","20,6116771",zakroczym
+913,Zalewo,2163,"53,8458768","19,606118",zalewo
+914,Zambrów,22451,"52,98552","22,24117",zambrow
+915,Zamość,65255,"50,7170854","23,2525711",zamosc
+916,Zator,3683,"49,9963053","19,4376782",zator
+917,Zawadzkie,7605,"50,6065834","18,4801284",zawadzkie
+918,Zawichost,1845,"50,8074312","21,8523835",zawichost
+919,Zawidów,4259,"51,0257493","15,0610053",zawidow
+920,Zawiercie,51258,"50,4844179","19,4333887",zawiercie
+921,Ząbki,31884,"52,2934961","21,1157408",zabki
+922,Ząbkowice Śląskie,15707,"50,5892698","16,8111518",zabkowice-ślaskie
+923,Zbąszynek,5078,"52,2435002","15,8139047",zbaszynek
+924,Zbąszyń,7202,"52,2501028","15,9209286",zbaszyn
+925,Zduny,4587,"51,6463268","17,377617",zduny
+926,Zduńska Wola,43615,"51,6028615","18,9333201",zdunska-wola
+927,Zdzieszowice,11978,"50,4202928","18,1193187",zdzieszowice
+928,Zelów,7833,"51,4652772","19,2184947",zelow
+929,Zgierz,57503,"51,8559434","19,4056443",zgierz
+930,Zgorzelec,32332,"51,1476999","15,0079028",zgorzelec
+931,Zielona Góra,119182,"51,9383777","15,5050408",zielona-gora
+932,Zielonka,17528,"52,310847","21,1523199",zielonka
+933,Ziębice,9117,"50,6007752","17,0405633",ziebice
+934,Złocieniec,13224,"53,5310697","16,0120665",zlocieniec
+935,Złoczew,3377,"51,4175117","18,6059007",zloczew
+936,Złotoryja,15496,"51,1234907","15,9165146",zlotoryja
+937,Złotów,18593,"53,3631938","17,034694",zlotow
+938,Złoty Stok,2935,"50,445143","16,8765836",zloty-stok
+939,Zwierzyniec,3347,"50,6145878","22,9706317",zwierzyniec
+940,Zwoleń,8112,"51,3564745","21,5844652",zwolen
+941,Żabno,4223,"50,1335155","20,8859257",żabno
+942,Żagań,26492,"51,6148068","15,3203721",żagan
+943,Żarki,4486,"50,6259563","19,3645599",żarki
+944,Żarów,6644,"50,9438416","16,4923538",żarow
+945,Żary,38527,"51,6385162","15,1422487",żary
+946,Żelechów,4081,"51,8096724","21,895505",żelechow
+947,Żerków,2145,"52,0687117","17,5633599",żerkow
+948,Żmigród,6485,"51,4717386","16,9082719",żmigrod
+949,Żnin,14181,"52,848462","17,7218791",żnin
+950,Żory,62022,"50,0454961","18,6943479",żory
+951,Żukowo,6521,"54,3458564","18,3650087",żukowo
+952,Żuromin,8987,"53,0671703","19,9078353",żuromin
+953,Żychlin,8576,"52,2440088","19,6260932",żychlin
+954,Żyrardów,41096,"52,0543308","20,4435009",żyrardow
+955,Żywiec,32083,"49,6890338","19,20305",żywiec

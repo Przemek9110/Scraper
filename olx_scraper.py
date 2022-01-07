@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from typing import List, Any
 
 from bs4 import BeautifulSoup
 from requests import get
@@ -27,6 +28,9 @@ no_page_found = []
 scrap_month = []
 scrap_year = []
 voivodeship_list = []
+population_list = []
+latitude_list = []
+longitude_list = []
 date = datetime.datetime.now()
 
 
@@ -108,21 +112,25 @@ def page_scrapper(soup):  # TODO add otodom BeautifulSoup
             else:
                 type_of_building.append(np.nan)
 
-            city_list.append(city)
             market_list.append(market.replace('secondary', 'wtorny').replace('primary', 'pierwotny'))
             rooms_list.append(
                 int(room.replace('one', '1').replace('two', '2').replace('three', '3').replace('four', '4')))
             scrap_month.append(date.strftime('%B'))
             scrap_year.append(date.strftime('%Y'))
             index = cities[cities['city'] == city].index.values
+            city_list.append(cities.at[index[0], 'Name'])
             voivodeship_list.append(cities.at[index[0], 'voivodeship'])
+            population_list.append(cities.at[index[0], 'Population'])
+            latitude_list.append(cities.at[index[0], 'Latitude'])
+            longitude_list.append(cities.at[index[0], 'Longitude'])
         except ValueError as e:
             print(f'Value Error {e}')  # TODO add saving exception to exception_log list
 
     dictionary = {'offer_title': title, 'price': price, 'price_per_meter': price_per_meter,
                   'offer_type': offer_type, 'floor': floor, 'area': area, 'rooms': rooms_list,
                   'offer_type_of_building': type_of_building, 'market': market_list, 'city_name': city_list,
-                  'voivodeship': voivodeship_list, 'month': scrap_month, 'year': scrap_year}
+                  'voivodeship': voivodeship_list, 'month': scrap_month, 'year': scrap_year,
+                  'population': population_list, 'longitude': longitude_list, 'latitude': latitude_list}
 
     return dictionary
 
@@ -138,34 +146,29 @@ def offer_iterator(link_list):
 
 
 def main(URL):
-    # print(f'\nApplication starts scraping from {URL}')
     for offers_site in (range(site_pages_count(URL))):
         offer_link = offer_link_finder(URL, offers_site)
         diction = offer_iterator(offer_link)
-    # print("Scrapped!!\n")
     return diction
 
 
 if __name__ == '__main__':
     print('Scrapper Running...')
-    exec(open('city_names_scrapper.py').read())
     start_time = time.time()
-    cities = pd.read_csv('cities.csv')
-    count = 0
+    cities = pd.read_csv('source.csv')
     for i, market in enumerate(market['market']):
         for j, room in enumerate(rooms['rooms']):
-            print(f'\nScraping {count + 1}/8 | market: {market} | rooms: {room}')
+            print(f'\nScraping... market: {market} | rooms: {room}')
             for k, city in enumerate(tqdm(cities['city'])):
                 URL = 'https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz/' + city + '/?search%5Bfilter' \
                                                                                        '_enum_market%5D%5B0%5D=' + market + '&search%5Bfilter_enum_rooms%5D%5B0%5D=' + room
                 if site_pages_count(URL) is None:
-                    # print(f'No offers: {URL}')
                     continue
                 else:
                     df = pd.DataFrame(main(URL))
-    df.drop_duplicates()
-    df.to_sql('Offers', engine, if_exists='replace', index=False)
-    df.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
+    cleared = df.drop_duplicates()
+    cleared.to_sql('Offers', engine, if_exists='replace', index=False)
+    cleared.to_csv('apartments.csv', mode='w', index=False)  # TODO Choice saving to DB or .csv
     pd.DataFrame(no_page_found).to_csv('no_page_found.csv', mode='w', index=False)
     print('WORK DONE!')
     print('-----%s-----' % str(datetime.timedelta(seconds=(time.time() - start_time))))
